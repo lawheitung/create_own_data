@@ -1,0 +1,66 @@
+﻿pid,id,Email,service,dealer,timestamp,looking to buy a car?,interested model
+email;alex.liu@appier.com,295,alex.liu@appier.com,test drive,Autoexec Corporation,1649548800,YES,X-Terrain
+email;alfy.wong@appier.com,692,alfy.wong@appier.com,test drive,Autoexec Corporation,1642377600,YES,Premium
+email;apple.chu@appier.com,380,apple.chu@appier.com,test drive,Autoexec Corporation,1647388800,YES,Single Cab
+email;baggio.chang@appier.com,529,baggio.chang@appier.com,pick up service,Automotive Corporation,1647993600,NO,X-Terrain
+email;billy.chin@appier.com,495,billy.chin@appier.com,test drive,Autoexec Corporation,1646006400,YES,Standard
+email;bryan.phuan@appier.com,647,bryan.phuan@appier.com,pick up spare part,B.S.L Auto Spares,1647043200,NO,Auto Plus
+email;chester.lew@appier.com,622,chester.lew@appier.com,test drive,Automotive Corporation,1651449600,NO,Standard
+email;david.li@appier.com,556,david.li@appier.com,pick up service,Automotive Corporation,1648598400,YES,Auto Plus
+email;emma.chen@appier.com,623,emma.chen@appier.com,pick up service,Automotive Corporation,1649030400,YES,X-Terrain
+email;enrique.yang@appier.com,488,enrique.yang@appier.com,truck service,Autoexec Corporation,1646956800,NO,X-Terrain
+email;eric.lee@appier.com,312,eric.lee@appier.com,pick up service,Automotive Corporation,1648944000,NO,Single Cab
+email;grace.jeong@appier.com,640,grace.jeong@appier.com,test drive,Automotive Corporation,1647820800,YES,Single Cab
+email;hayato.kaji@appier.com,686,hayato.kaji@appier.com,pick up spare part,Autoexec Corporation,1646265600,YES,Premium
+email;jb.lee@appier.com,648,jb.lee@appier.com,pick up spare part,B.S.L Auto Spares,1650153600,YES,Auto Plus
+email;jessica.ta@appier.com,581,jessica.ta@appier.com,truck service,Autoexec Corporation,1647734400,NO,Standard
+email;jill.chen@appier.com,689,jill.chen@appier.com,test drive,Autoexec Corporation,1642118400,YES,X-Terrain
+email;kazuki.sato@appier.com,503,kazuki.sato@appier.com,test drive,B.S.L Auto Spares,1646265600,YES,Premium
+email;kim.lu@appier.com,691,kim.lu@appier.com,truck service,B.S.L Auto Spares,1642636800,NO,Standard
+email;laura.chen@appier.com,366,laura.chen@appier.com,pick up service,Automotive Corporation,1651104000,YES,Single Cab
+email;lilian.chuang@appier.com,676,lilian.chuang@appier.com,pick up spare part,Autoexec Corporation,1644364800,YES,X-Terrain
+email;lucy.lu@appier.com,119,lucy.lu@appier.com,test drive,Automotive Corporation,1648080000,NO,Auto Plus
+email;mark.chu@appier.com,586,mark.chu@appier.com,test drive,B.S.L Auto Spares,1642377600,NO,Single Cab
+email;michael.palmer@appier.com,631,michael.palmer@appier.com,test drive,B.S.L Auto Spares,1641945600,YES,Auto Plus
+email;minkyung.jung@appier.com,694,minkyung.jung@appier.com,test drive,B.S.L Auto Spares,1648771200,YES,X-Terrain
+email;my.nguyen@appier.com,682,my.nguyen@appier.com,test drive,Automotive Corporation,1649203200,YES,Premium
+email;naoko.kawaguchi@appier.com,690,naoko.kawaguchi@appier.com,test drive,Autoexec Corporation,1642723200,NO,Premium
+email;paul.tsai@appier.com,671,paul.tsai@appier.com,test drive,Autoexec Corporation,1651536000,YES,Premium
+email;peter.choi@appier.com,643,peter.choi@appier.com,test drive,Autoexec Corporation,1651536000,YES,Standard
+email;po.liao@appier.com,606,po.liao@appier.com,pick up service,Autoexec Corporation,1644537600,NO,Auto Plus
+email;pochou.kung@appier.com,234,pochou.kung@appier.com,test drive,Automotive Corporation,1647043200,NO,Single Cab
+email;rio.prawika@appier.com,637,rio.prawika@appier.com,test drive,B.S.L Auto Spares,1642723200,YES,X-Terrain
+email;roseline.li@appier.com,549,roseline.li@appier.com,test drive,Autoexec Corporation,1646006400,YES,Standard
+email;roy.lo@appier.com,628,roy.lo@appier.com,truck service,Automotive Corporation,1650931200,NO,Premium
+email;ryan.yuan@appier.com,46,ryan.yuan@appier.com,test drive,B.S.L Auto Spares,1646265600,YES,Premium
+email;salem.chen@appier.com,667,salem.chen@appier.com,test drive,B.S.L Auto Spares,1642291200,YES,X-Terrain
+email;sam.lee@appier.com,583,sam.lee@appier.com,pick up service,B.S.L Auto Spares,1641513600,NO,Premium
+email;samantha.huang@appier.com,654,samantha.huang@appier.com,pick up spare part,B.S.L Auto Spares,1642723200,YES,Single Cab
+email;sherry.chen@appier.com,645,sherry.chen@appier.com,pick up service,Dynamic Motors,1647993600,YES,Standard
+email;sherry.liao@appier.com,656,sherry.liao@appier.com,test drive,Hornbill Motor,1642550400,YES,X-Terrain
+email;sophia.lee@appier.com,687,sophia.lee@appier.com,pick up service,Dai Mac Automobile,1645660800,YES,X-Terrain
+email;ted.wu@appier.com,75,ted.wu@appier.com,test drive,Dai Mac Automobile,1642032000,YES,Auto Plus
+email;tengyuan.chang@appier.com,201,tengyuan.chang@appier.com,test drive,Hornbill Motor,1643414400,YES,X-Terrain
+email;tiffany.law@appier.com,695,tiffany.law@appier.com,pick up service,Dai Mac Automobile,1650499200,YES,X-Terrain
+email;tina.yh.chu@appier.com,651,tina.yh.chu@appier.com,pick up spare part,Hornbill Motor,1644969600,NO,X-Terrain
+email;tri.nguyen@appier.com,649,tri.nguyen@appier.com,test drive,Dynamic Motors,1651190400,NO,Auto Plus
+email;tritiya.saiyakit@appier.com,646,tritiya.saiyakit@appier.com,pick up spare part,Dai Mac Automobile,1643414400,Yes,Premium
+email;wan.luk@appier.com,598,wan.luk@appier.com,test drive,Dynamic Motors,1647820800,YES,Auto Plus
+email;wilson.li@appier.com,683,wilson.li@appier.com,pick up service,Dai Mac Automobile,1649721600,YES,Auto Plus
+email;y.liang@appier.com,685,y.liang@appier.com,pick up spare part,Dai Mac Automobile,1645574400,NO,Standard
+email;yuka.kono@appier.com,666,yuka.kono@appier.com,pick up spare part,Dai Mac Automobile,1651104000,NO,Auto Plus
+email;yungyun.cheng@appier.com,230,yungyun.cheng@appier.com,test drive,Dynamic Motors,1647734400,YES,Auto Plus
+email;bryan.phuan@appier.com,647,bryan.phuan@appier.com,pick up spare part,B.S.L Auto Spares,1647043200,,
+email;chester.lew@appier.com,622,chester.lew@appier.com,test drive,Automotive Corporation,1651449600,,
+email;tiffany.law@appier.com,695,tiffany.law@appier.com,pick up service,Dai Mac Automobile,1650499200,,
+email;tina.yh.chu@appier.com,651,tina.yh.chu@appier.com,pick up spare part,Hornbill Motor,1644969600,,
+email;tri.nguyen@appier.com,649,tri.nguyen@appier.com,test drive,Dynamic Motors,1651190400,,
+email;tritiya.saiyakit@appier.com,646,tritiya.saiyakit@appier.com,pick up spare part,Dai Mac Automobile,1643414400,,
+email;wan.luk@appier.com,598,wan.luk@appier.com,test drive,Dynamic Motors,1647820800,,
+email;jessica.ta@appier.com,581,jessica.ta@appier.com,truck service,Autoexec Corporation,1634342400,,
+email;jill.chen@appier.com,689,jill.chen@appier.com,test drive,Autoexec Corporation,1628726400,,
+email;kazuki.sato@appier.com,503,kazuki.sato@appier.com,test drive,B.S.L Auto Spares,1632873600,,
+email;kim.lu@appier.com,691,kim.lu@appier.com,truck service,B.S.L Auto Spares,1629244800,,
+email;laura.chen@appier.com,366,laura.chen@appier.com,pick up service,Automotive Corporation,1637712000,,
+email;lilian.chuang@appier.com,676,lilian.chuang@appier.com,pick up spare part,Autoexec Corporation,1630972800,,
+email;lucy.lu@appier.com,119,lucy.lu@appier.com,test drive,Automotive Corporation,1634688000,,

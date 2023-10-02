@@ -1,0 +1,16 @@
+select  
+    Event.Comments__c, 
+    Event.WhatId, 
+    Event.Activity_Type__c, 
+    (select Name, OwnerID from Opportunity)
+    from Event where Event.WhatId
+    and  Event.OwnerId = '005BB000000KD7EYAW' 
+    limit 10000
+
+select Event.OwnerId, Event.Comments__c, Event.WhatId, Event.Activity_Type__c (Select Name from Opportunity) from Event where OwnerId = '005BB000000KD7EYAW' and Event.WhatId IN (Select Id from Opportunity)
+
+
+select Event.OwnerId, Event.Comments__c, Event.WhatId, Event.Activity_Type__c from Event where  OwnerId = '005BB000000KD7EYAW' limit 10000
+
+
+select Opportunity.Id, Opportunity.OwnerId, Opportunity.opportunity_name_aggregated__c from Opportunity where Client_s_Product_Item_for__c = 60000034 limit 10000

@@ -1,0 +1,821 @@
+,user_id,timestamp,Duration,IP,Title,scroll_depth,referrertype,url,lastaction
+0,bb645c6c64e4460dafcab25f4711a229,1674495478,36,118.201.183.106,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+1,80a7112938114cc688957cdb521b2632,1674305145,22,27.131.128.0,Sports & Outdoor,0.7,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+2,8a5a6474242f4d61ae4f4a7b615d4526,1674016848,31,27.131.128.0,Sports & Outdoor,1,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+3,ca350f477c634a84bdaf67e046e634d2,1676815632,32,118.201.183.106,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+4,d7a556f061d84249802137d89b600208,1674460307,57,118.201.183.106,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+5,506ce0d642e140babe8be839964464c4,1673104336,14,27.79.255.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+6,831648956ff34ae0b187989499f8c1f9,1673508451,56,118.201.183.106,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+7,4cdf98f7facd4cf6ab4a8eadf9a3b4f4,1673615883,13,27.50.31.255,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+8,e08e7a6aae244038aed4a2e3abf943c5,1676945794,38,118.201.183.106,Sports & Outdoor,0.7,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+9,dbc72003143d4c2198386300c6264cdf,1677364409,20,118.201.183.106,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+10,5c41a98e58864319ad6c649d2cb748c6,1677352885,60,27.79.255.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+11,6b67da2a8cb141a887a579c3deead7b5,1673680172,39,27.131.128.0,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+12,9754977333fb40d89b4d7e68f22bdcf3,1672851715,38,27.131.128.0,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+13,3f4d3b126d644eac9c99c6e74079d930,1677447633,12,118.201.183.106,Men's Apparel,1,Direct,www.demo.com/MensApparel,FALSE
+14,d7d4afa59bec40c1818e80c7f2f5f404,1673399731,57,27.131.128.0,Men's Apparel,0.9,Social Networks,www.demo.com/MensApparel,FALSE
+15,7f9f971c79044bcfb4b74480021d0693,1675176268,32,27.131.128.0,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+16,4f0697617fe1408195f3db5b99791274,1674460044,62,27.79.255.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+17,ee72e4ac31a04fa28a3cd67ab756e7c9,1674335634,15,118.201.183.106,Men's Apparel,0.9,Social Networks,www.demo.com/MensApparel,FALSE
+18,e7e758722c47464fafe805c8b83aca46,1672640282,36,27.50.31.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+19,cf48323298c84025adfbdfd915949d3c,1676752840,32,118.201.183.106,Men's Apparel,0.9,Direct,www.demo.com/MensApparel,FALSE
+20,0691905dd981479e9c71f523fa96101b,1674294400,5,1.32.127.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+21,36528eecaab149b0b3cf38e2a8b72fa8,1673555589,53,103.101.47.255,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,FALSE
+22,94132ff6d08a47cf8cdd6b820c9971d6,1675945895,70,118.201.183.106,Men's Apparel,0.7,Direct,www.demo.com/MensApparel,FALSE
+23,10494e0ed7ce4b4fa9d39ae7b720e191,1676373129,24,27.79.255.255,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+24,bef1fbdea45a418ba6d98ef104ed4464,1676495964,53,118.201.183.106,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+25,8b910200036d4facacaaadeacbb50065,1676835217,41,1.32.127.255,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,FALSE
+26,ff6d6f3010ef4e238a383b1d7dcdc111,1673218414,37,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+27,dfc9d318a9154e698fd3e97116df919c,1674488037,45,118.201.183.106,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+28,c5da6d4bae5642bbbd12cc01178b06a6,1674611164,60,118.201.183.106,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+29,fc21b918014c4aa0a79657369612800c,1677164464,15,27.131.128.0,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+30,344c46ec56bd411da69ec14efc589c4b,1674186664,70,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+31,d64ccb32ae614acdabe9e890d5f1c42a,1676349328,67,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+32,e3655b0c8c9f4d918b82198782baab31,1673089524,46,118.201.183.106,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+33,6bc553ccbc654011adc7b02a363fa46f,1676856299,8,118.201.183.106,Beauty & Personal Care,0.6,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+34,fb9e302613d447dc980cafe2dcb3c4f9,1674891763,34,27.50.31.255,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+35,f7ce3b8e0f854e3caf5a486c7210e6e9,1674661181,28,118.201.183.106,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+36,961ae61c1ddd4cf8a900ab2de23a7fca,1674211653,3,27.79.255.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+37,bbac15fa506148f9a7498ab3fc5309db,1676173730,66,27.131.128.0,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+38,ca750b7ab9c8404ea9bfc4dbc177a7f4,1674605267,57,118.201.183.106,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+39,d42d187ed29944c0b35540b946a2476a,1674013257,54,118.201.183.106,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+40,dad1c58324b546dfb4ab367a70a33d84,1674367299,57,118.201.183.106,Beauty & Personal Care,1,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+41,6ec1d1f415f24994b43517d23782bc12,1676034996,55,1.32.127.255,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+42,0d59397a2afa4d9faa18887fce629027,1677422463,33,118.201.183.106,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+43,6320c50f84c74e9dada0277d2e7708c6,1674166620,69,118.201.183.106,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+44,a62b163c1092428fba225547d8a2c1c0,1673987011,5,27.131.128.0,Men's Apparel,1,Direct,www.demo.com/MensApparel,FALSE
+45,ff6d25351fe14cc08a49deb04d32eee6,1677520389,24,27.131.128.0,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,FALSE
+46,97dbffd8d9e94d3db8b0f102aa4b0a27,1677314229,40,27.79.255.255,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,FALSE
+47,0b8c0000a0ea4e9d86fbe0e67374c430,1675631132,62,118.201.183.106,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+48,48c4f03f991940cea5a3bdad237137ed,1676169293,19,118.201.183.106,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+49,6c69a6787afd4bf5ad0280f11bec1503,1676763507,31,27.79.255.255,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,FALSE
+50,928fa1906c134e5b9d708bdfb38d8afe,1677499906,55,27.50.31.255,Men's Apparel,0.6,Email,www.demo.com/MensApparel,FALSE
+51,0968abf99be645848138b40c31465ef2,1673057581,57,27.50.31.255,Men's Apparel,1,Social Networks,www.demo.com/MensApparel,FALSE
+52,e09dc31be64b48ef80127d9e9a3c46f2,1676733662,35,103.101.47.255,Men's Apparel,1,Direct,www.demo.com/MensApparel,FALSE
+53,dbccfd8b2efc4614ba654cc15a6f62ad,1676210192,16,118.201.183.106,Men's Apparel,0.7,Direct,www.demo.com/MensApparel,FALSE
+54,381e15c01e3549b384ad8999ca89541d,1673241283,68,27.131.128.0,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+55,008dfaa664714eab8fab4ec9310b7e73,1674033147,37,27.50.31.255,Men's Apparel,1,Social Networks,www.demo.com/MensApparel,FALSE
+56,da93f2fb09f84ac4b0b871ebdf42be63,1675562151,21,118.201.183.106,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+57,482f553a298345698339503054317ba1,1673485621,61,27.79.255.255,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+58,58efb50bd71d4c6abda297585ee94c48,1675458397,20,103.101.47.255,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+59,eeaef7f96c7c4dec9ffecac824c1b2f4,1676642569,9,118.201.183.106,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+60,9e6612924d3947d6941a593dba2a2420,1672992532,28,118.201.183.106,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+61,44ff5f5aa3a74e2e827188103910e9ae,1672971821,25,118.201.183.106,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+62,5e3ae4d219ab4847828ad0bd4bc89d5d,1673022148,45,118.201.183.106,Women's Apparel,1,Direct,www.demo.com/WomensApparel,FALSE
+63,41834e020eda4fa7b471cbbb14ecf1a1,1675162631,54,118.201.183.106,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+64,d2211b44a6a14a2a82c330735800bcf2,1674305523,59,27.50.31.255,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+65,bb2b708635b344b09e241e5c71ad3e41,1674324750,12,27.131.128.0,Home Appliance,0.9,Direct,www.demo.com/HomeAppliance,FALSE
+66,8e5ec145bc8044f3a4bf4952ca2d910b,1674035553,58,118.201.183.106,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+67,8f233701007f45d99d34eab9daabdfd9,1675466772,31,118.201.183.106,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+68,2f68c84413b84fdba8188699de371b2e,1674339641,49,27.131.128.0,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+69,b5c74a9de3244d9a876f600bb68bb81c,1673479248,26,118.201.183.106,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+70,58592e4f7bdb49f99e139681abba9cb1,1676696946,41,118.201.183.106,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+71,2c7b1efacb874f198d6637934d3fed8e,1673110999,68,27.50.31.255,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+72,812164a76e6a41c4a3baaa5533e905d2,1675894921,19,27.79.255.255,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,FALSE
+73,e088e69b18ca496fb470e091416ca38b,1675015800,26,27.79.255.255,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,FALSE
+74,d3e56a01ad834ba295b296fb11959190,1676572213,29,27.79.255.255,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,FALSE
+75,2d202eb89de145dfa2e45c244d6eaf50,1675304074,43,27.131.128.0,Home Appliance,0.9,Direct,www.demo.com/HomeAppliance,FALSE
+76,e4d2dad0f3ca4962845d2fc0b085cd2f,1675407324,50,118.201.183.106,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+77,fd34bc786ae14830b7cb3507787813fd,1676525606,28,27.79.255.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+78,7cddd15e4e3845e3b21ed54368c0e6bd,1675787262,69,27.79.255.255,Home Appliance,0.6,Social Networks,www.demo.com/HomeAppliance,FALSE
+79,ddfa2858da7c4c95b3ef98f9d30ced66,1676485599,14,118.201.183.106,Women's Apparel,0.8,Email,www.demo.com/WomensApparel,FALSE
+80,0bf5e88bcf57457486840b83edd600c6,1676114218,14,27.79.255.255,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,FALSE
+81,fd88eea63a404214b517a09fef08b82f,1672973345,14,118.201.183.106,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+82,8297160179ff4807b64991e37aa4a5c5,1673544040,54,103.101.47.255,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+83,06d1ff4b075b4748aa71a5de465c00ec,1675670425,48,27.50.31.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+84,353eca074adf40a39bdec269fcff5596,1677298273,39,118.201.183.106,Women's Apparel,0.7,Direct,www.demo.com/WomensApparel,FALSE
+85,a48ef7995d174317a163017c95711be9,1675288986,70,27.79.255.255,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+86,6d97d7e65c524d9ba7856ed6c81ec96a,1674700190,39,118.201.183.106,Women's Apparel,1,Social Networks,www.demo.com/WomensApparel,FALSE
+87,bb75a43ad60e4d3e9c3f38a3238841fa,1674329006,24,118.201.183.106,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+88,6887408231af4e0e86446e8b1a56cac7,1677516619,9,27.79.255.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+89,d77dac42aa724b638f6d9ca9cab00bfd,1672772718,35,118.201.183.106,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+90,354a94c896ef4f3f979891260423e86b,1674512285,48,1.32.127.255,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+91,054d5a6e771f4db3b2828d1de0117c80,1675974747,15,118.201.183.106,Beauty & Personal Care,0.9,Back Links,www.demo.com/Beauty&PersonalCare,FALSE
+92,f8397ebf1735417b892273706978ced0,1675103068,22,118.201.183.106,Beauty & Personal Care,0.9,Back Links,www.demo.com/Beauty&PersonalCare,FALSE
+93,710d5fd27fd7435bbfe573260e9cad2b,1673259869,70,103.101.47.255,Beauty & Personal Care,0.7,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+94,7346ec8ad47f484e9c000207e470d1c9,1674975230,11,118.201.183.106,Beauty & Personal Care,0.7,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+95,ef3ebbea87ba4d3abe9001de7b02a9c0,1674830871,26,27.79.255.255,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+96,036e4190946e4ae89bc0e8357b2e7164,1673617282,67,1.32.127.255,Beauty & Personal Care,0.7,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+97,f872038efb8f4e4daf6c274259dd5146,1675317781,32,103.101.47.255,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+98,e5562b0b793942cb93dcb2c0823740df,1672694382,70,118.201.183.106,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+99,31574df0eabf41c0972e793a8f141c76,1672750707,23,1.32.127.255,Beauty & Personal Care,0.9,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+0,9536d12b00504681a164dafa29f6c8bb,1676457135,63,1.32.127.255,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+1,298448d2641c45ae87a045e207db713a,1673065893,61,27.50.31.255,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+2,b9641784e28145c7a296b6e1bc2f1463,1674675582,67,1.32.127.255,Beauty & Personal Care,1,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+3,82365aced5c74bc586ab5067c4c72274,1676519857,7,118.201.183.106,Beauty & Personal Care,0.9,Email,www.demo.com/Beauty&PersonalCare,FALSE
+4,d8a4220398224522aee3f3b5ef2ab9dc,1673847428,37,27.50.31.255,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+5,3f38f775728a4fd2907a602042aa389c,1675482442,24,27.131.128.0,Beauty & Personal Care,0.6,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+6,d6cf187fd04b419f8c91618caa0b5be1,1673795941,29,1.32.127.255,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+7,af765009983d4e268d231b65f7850d18,1677318889,5,118.201.183.106,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+8,ab4c6989232d4fafab6517105e46fda3,1673772319,28,27.79.255.255,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+9,5e9d400408b14d8cba5b19b58ec0c163,1673756109,11,1.32.127.255,Beauty & Personal Care,0.7,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+10,9bf7bf76feb24fd983da5cd261102d04,1676412246,41,27.79.255.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+11,b5e555b328084e809c1c6d6bec13d1e8,1675460723,29,27.50.31.255,Beauty & Personal Care,0.9,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+12,c5bc08cceaf348ea85f9940a82ec0a63,1675974933,42,27.50.31.255,Beauty & Personal Care,0.6,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+13,3fffab0e5ddb4d3bb9f43cb6e0c76f64,1677347783,9,27.50.31.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+14,2a14043747ac4ba89ba95dfdb077ae59,1673576161,17,1.32.127.255,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+15,c15aedc83d14463a961f969bdc397e0e,1673490384,34,118.201.183.106,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+16,aebaae4bee1347c6ac7af446bb3fec75,1676928281,68,27.50.31.255,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+17,3a2c42e2cf504047959215de81c7abb6,1673208244,63,27.79.255.255,Home Appliance,0.6,Social Networks,www.demo.com/HomeAppliance,FALSE
+18,44b566b41d7d4b7eacfc0e10625638f2,1674320321,30,1.32.127.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+19,da93ff0b1efd4f42b3c345c803ff1b03,1673725691,15,27.50.31.255,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+20,5031b8b1e9ce4845b322bc01374d99ec,1676693375,48,27.50.31.255,Home Appliance,0.6,Social Networks,www.demo.com/HomeAppliance,FALSE
+21,845e327ff0b14432be7e14c72d2eb1ed,1673522336,38,27.79.255.255,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+22,f9dd0a36858d4d97acdedaad6bfa94de,1676588042,56,27.50.31.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+23,eb6775d9b1ce4e58ad8aa2bda7ab1c50,1676531497,30,118.201.183.106,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,FALSE
+24,ca9790fb44634832a6da602307ed4571,1675720214,37,118.201.183.106,Home Appliance,0.6,Social Networks,www.demo.com/HomeAppliance,FALSE
+25,502f5c72a16143a2b0c4ce24b80f57e3,1672883323,43,118.201.183.106,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+26,ab2f3aac536040d9b209a10f8b5fda8b,1672767914,70,27.50.31.255,Home Appliance,1,Search Engine,www.demo.com/HomeAppliance,FALSE
+27,1474e237bcd54861b32125971bf5b8c0,1673587359,18,27.50.31.255,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+28,90b0587d62c24f3c97a30654f8d48271,1673281021,34,1.32.127.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+29,df06f0fc74b943f295facf34f94196b3,1673598453,19,118.201.183.106,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+30,5878c57e98af4646aacbc926d368496a,1675138058,25,27.50.31.255,Home Appliance,1,Search Engine,www.demo.com/HomeAppliance,FALSE
+31,73e056b69cda4328a741f878555ee9dc,1674372001,44,27.131.128.0,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,FALSE
+32,26c308228b1c417f8586188518c61656,1673720096,69,118.201.183.106,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+33,b727bc26af3c42c487aa37d66ba2712d,1672556204,3,27.131.128.0,Home Appliance,0.6,Social Networks,www.demo.com/HomeAppliance,FALSE
+34,d0e8a49461c445e0966b15bad6ae668b,1673412516,31,1.32.127.255,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,FALSE
+35,df0eaf04bf2c4529a930da7417c1d2d4,1676980916,5,1.32.127.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+36,5f0890bc6e5941ac963ec85f28f5eb43,1677179398,24,118.201.183.106,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,FALSE
+37,8cb51129d9d84bf5814af828cccf03c3,1673662303,38,103.101.47.255,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+38,8e87595ad75d422c8068ab888b4f4e31,1676032668,58,27.79.255.255,Home Appliance,1,Social Networks,www.demo.com/HomeAppliance,FALSE
+39,359a2bcda35e460fa8696c0011e80c7c,1674163776,25,118.201.183.106,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+40,1c3e2fce8ff042389981026237571083,1676292697,26,1.32.127.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+41,c002edd5d60b4d8a88b75452d6d7f899,1675589224,6,1.32.127.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+42,63263260d9314c97b13898d93bf18685,1673779976,24,27.50.31.255,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,FALSE
+43,e4ed63973ce344cd8fcd1b1975105350,1675751476,11,27.79.255.255,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+44,bf9b75cdc0aa4b5d9d4e6da09d50e248,1675576258,59,118.201.183.106,Home Appliance,0.6,Back Links,www.demo.com/HomeAppliance,FALSE
+45,533aa41678634879b1622db9863c46cd,1676812337,51,118.201.183.106,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+46,276a43a762fb40d8b27da5f19a07eb76,1673149232,21,1.32.127.255,Home Appliance,0.8,Back Links,www.demo.com/HomeAppliance,FALSE
+47,a8770a03935f47298ea90223f670e806,1676257432,14,27.50.31.255,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,FALSE
+48,4cc38b4306914ef08967df48e5a9d59f,1675043595,15,118.201.183.106,Home Appliance,0.6,Email,www.demo.com/HomeAppliance,FALSE
+49,8b7bb068acb8450fb909a2e63c9d2d2f,1677055388,53,118.201.183.106,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+50,a1231d094f534da2ab3e3343d8267506,1676366085,21,118.201.183.106,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+51,bc8c8b12cf04455aa4076be000f9d8ff,1677036266,7,27.50.31.255,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,FALSE
+52,1204eb99c5254dca8e1ac90fe6eaf0eb,1674619425,31,27.79.255.255,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,FALSE
+53,17b0d9fd628b44fd9c08fb630680bdcc,1675348984,24,27.79.255.255,Home Appliance,0.9,Direct,www.demo.com/HomeAppliance,FALSE
+54,6876e76f54824d70ae4cfc684d34f378,1673809415,26,118.201.183.106,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,FALSE
+55,8cd659151c5e42f09c621aa18e92b38e,1677022014,65,27.79.255.255,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+56,d25c88eec57f49d2b85902df9ca97926,1675172564,39,27.131.128.0,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+57,3ef94890bc6e476ba20e7bb4fc4b2185,1674405834,21,27.79.255.255,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+58,092f9df5c2ca4653b362e42cd6c6dc32,1674984799,26,27.50.31.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+59,1327d624ad08419c9b30134b180dbeab,1676067283,25,118.201.183.106,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,FALSE
+60,af93b06f35e144b18b3688fb3327729c,1674020073,7,1.32.127.255,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,FALSE
+61,41d5bff580f04a939ca51137956114f1,1673390615,28,27.79.255.255,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+62,09d594ad85344a8b95d01b020dbdb251,1674172177,48,27.79.255.255,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,FALSE
+63,db0752a86ff3429f923e87b5c9bec15c,1673879486,13,27.50.31.255,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,FALSE
+64,40161944ed3044989ffe99e3086af1c3,1675009384,37,118.201.183.106,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+65,7eb28a0c1eac48adb1f56ed4c0e5b1de,1673156327,53,103.101.47.255,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,FALSE
+66,7cd1fce8618745f588f9878781c59e03,1672913491,41,27.131.128.0,Home Appliance,1,Direct,www.demo.com/HomeAppliance,FALSE
+67,0d95e17ca9f94ae1b36674c787ed4d6a,1677112949,50,118.201.183.106,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+68,82f5331d2445470a9ab102a24236d3c4,1675536023,34,118.201.183.106,Home Appliance,0.9,Social Networks,www.demo.com/HomeAppliance,FALSE
+69,7cdc778c46d34f7ebff83f0bef735f2b,1677207582,19,118.201.183.106,Sports & Outdoor,0.9,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+70,9cb99ec5f24d49018e5fcf1aeb1ddfde,1672688707,62,27.50.31.255,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+71,818bfe81027e400890bc4523cdcd0cdd,1677175188,8,27.50.31.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+72,1f11c655fc434d17a5b75731b9d4f2b1,1675820296,66,1.32.127.255,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+73,4340625118dc4c7eabf718c741d24a21,1674368883,25,27.131.128.0,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+74,13f6d63f79d54e4c8e8094f86d7ca87f,1673425236,56,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+75,b06561dff2a84a5f8f983fd985f91419,1673133806,23,118.201.183.106,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,FALSE
+76,b59e2f95a4304469b6d4cd0781652325,1676013543,57,27.79.255.255,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+77,e27ac4e4fb0e4ad5bab2ecc0c4876348,1673589808,43,118.201.183.106,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+78,4c962c2e88a0440299a3e63c423fa261,1672570850,68,118.201.183.106,Sports & Outdoor,0.7,Email,www.demo.com/Sports&Outdoor,FALSE
+79,9203c0f6562143978731c3048c6fbb26,1675906635,26,27.50.31.255,Sports & Outdoor,1,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+80,a3c61c4d82ad418d830d2995b6075bad,1677209242,24,103.101.47.255,Sports & Outdoor,1,Direct,www.demo.com/Sports&Outdoor,FALSE
+81,f02a680f76c941e6b02876d669c61df7,1673282506,69,1.32.127.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+82,55ad82dc090c42fe8d0e288e139c9587,1673492128,56,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+83,ec2d7d33f0a548288bad36979a690fa3,1672701475,38,27.131.128.0,Sports & Outdoor,0.9,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+84,6cc596ecbfc74e0782f97f95e261ecd3,1673731951,48,118.201.183.106,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+85,a75cdc2d72734f65bf6cceb7b298c98d,1676043762,29,27.50.31.255,Sports & Outdoor,1,Direct,www.demo.com/Sports&Outdoor,FALSE
+86,4b438754062c43779633bbf445493aed,1674963454,30,1.32.127.255,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+87,ff5b9fc166f44c56934bacec707ea46f,1674502533,26,27.50.31.255,Sports & Outdoor,1,Direct,www.demo.com/Sports&Outdoor,FALSE
+88,b4995fd07a9549a9a2d4bdcce305cd01,1676940260,44,27.79.255.255,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+89,da50c7228405483fb8c5b7e52b6ceda0,1674767436,14,1.32.127.255,Sports & Outdoor,0.7,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+90,d8205eb503d54b61b0367b12f713805f,1673772361,23,27.131.128.0,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+91,e753f321545b410b9b5955bf992c6942,1674542769,27,118.201.183.106,Sports & Outdoor,0.8,Back Links,www.demo.com/Sports&Outdoor,FALSE
+92,fde87f15b2e3420da6bb82a79ae78382,1673175950,64,1.32.127.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+93,0f3abf2d80794e1eb45a55f1d87903c9,1676582567,9,118.201.183.106,Sports & Outdoor,1,Direct,www.demo.com/Sports&Outdoor,FALSE
+94,5dc7d1d6d63d40b19a01a8306fad60da,1675454086,69,27.131.128.0,Sports & Outdoor,0.8,Email,www.demo.com/Sports&Outdoor,FALSE
+95,6a670a7dfaa94059a60c814522180bc8,1676495397,35,27.79.255.255,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,FALSE
+96,51f94d4c97134f0fa3c66c3fc0ff6baf,1673414193,33,118.201.183.106,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+97,aa779c7e0109442ab9f7ddb656766674,1674662455,25,27.131.128.0,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+98,4461760d02394a8798e6573daf380e59,1672987842,40,27.50.31.255,Sports & Outdoor,0.6,Direct,www.demo.com/Sports&Outdoor,FALSE
+99,45160a62f7df41339393a3ab7a0a6a43,1675544033,46,118.201.183.106,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+100,637016b097e74389ac9d04585e9c1f8f,1673534534,59,118.201.183.106,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+101,19bfa7c4d20e4d3eaf7edcd8e539e95d,1674730338,65,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+102,6ecedb677d614e56a7f25af539cf2bc1,1674427208,30,27.50.31.255,Sports & Outdoor,1,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+103,6de8b92674df4784b8931422a8d762e9,1674666803,35,27.131.128.0,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+104,3c667f700f6f4c13a855b638925fe31a,1672734013,38,27.131.128.0,Sports & Outdoor,0.9,Direct,www.demo.com/Sports&Outdoor,FALSE
+105,416695a1f13d4d44a2a14a4789989432,1677296558,49,27.79.255.255,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+106,e6c79ecf57d6481da963f210826cac06,1674796784,3,118.201.183.106,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+107,f6caf8ba39454c659a9d5820419c6cc7,1673323504,58,1.32.127.255,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+108,b5045c131e24464a86ca564988590ad3,1672811861,64,118.201.183.106,Beauty & Personal Care,0.7,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+109,cf4b18d147f447f197820567a1c97283,1676802085,32,1.32.127.255,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+110,9d21e78e47594307bca50ab774957dc5,1676871203,15,27.50.31.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+111,1be2d4be79064a02a9fec292712eb94a,1674469192,23,118.201.183.106,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+112,dd6f2539c0d344a48243e5c33c06e18a,1673015460,26,118.201.183.106,Beauty & Personal Care,0.6,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+113,d397f3d7311c4019855d5afd723621fb,1675991998,49,27.79.255.255,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+114,23077e47f4f54b91840dcbae285674b9,1677445619,20,118.201.183.106,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+115,261272acd52441eab5f0c9036ff9c7d2,1672784854,16,27.50.31.255,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+116,da9ffe7b62e04b8183d70905563ea9a4,1676037328,12,27.79.255.255,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+117,0735e238670d45ebbdb55f2365227c4c,1674356408,18,1.32.127.255,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+118,46360970fd4949f29ee52b6d07691ca8,1672592393,21,27.79.255.255,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+119,4336fa00d5bd4a2f89d7d003c12391d7,1675681979,62,27.50.31.255,Beauty & Personal Care,0.6,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+120,9bb370560f5142858603624239b70b3f,1673285555,41,118.201.183.106,Beauty & Personal Care,0.9,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+121,b602cc945e514caca502d4c60af4573c,1673634856,32,1.32.127.255,Beauty & Personal Care,0.7,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+122,adf093b88b9e4b8599ca04a18d416561,1676311167,48,118.201.183.106,Beauty & Personal Care,1,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+123,f76ac906fb9143c99d52bf6078fcad3c,1675123412,68,118.201.183.106,Beauty & Personal Care,1,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+124,eb7d4bf13edb4f54ad8109142c318a32,1673309203,55,118.201.183.106,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+125,6140b83421ff4237b6b1de0643cdd158,1676971927,7,27.50.31.255,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+126,cc9db1f45fa14e979ff0d16ea85bdc7f,1677141657,26,118.201.183.106,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+127,1fd1967ec3d14906baf5ad3f7eb61521,1675895407,27,118.201.183.106,Women's Apparel,1,Search Engine,www.demo.com/WomensApparel,FALSE
+128,fbe61b8e84c64b9cb40035249976f9ce,1674839784,37,27.50.31.255,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+129,ec9ad28ddf8b4dbe93624a63c5d9153e,1674439684,39,118.201.183.106,Women's Apparel,0.6,Search Engine,www.demo.com/WomensApparel,FALSE
+130,8c9c1115149b4fe7a1b7dd4cfd3f7cbf,1675437082,60,27.50.31.255,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+131,6d5e2884fa5e4839beed90004d48e076,1676600920,66,27.79.255.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+132,a7495334fe8844c195832661ff584f62,1675306798,65,118.201.183.106,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+133,e8dbdaa9e6f44a1993449405ccd927b9,1677083744,12,27.50.31.255,Women's Apparel,0.7,Email,www.demo.com/WomensApparel,FALSE
+134,e1f233a59961419eacb7cd8f9bb47f74,1674367146,6,1.32.127.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+135,98127b6967144dfd87df0e205ca8152d,1675903149,33,103.101.47.255,Women's Apparel,1,Social Networks,www.demo.com/WomensApparel,FALSE
+136,ffd2b42b57ee43fd889a7ebc4eb210b6,1673241834,40,118.201.183.106,Women's Apparel,0.6,Search Engine,www.demo.com/WomensApparel,FALSE
+137,c284da80a62441cfb497a27efc7e88ef,1676779347,23,118.201.183.106,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,FALSE
+138,e57d85af40a34ac9bc9a1aefe5f22aad,1675993838,31,1.32.127.255,Women's Apparel,0.9,Direct,www.demo.com/WomensApparel,FALSE
+139,b3832a7a94bb4341b7aa723eea124e41,1675620327,18,27.79.255.255,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,FALSE
+140,90850969dbd34f46b70da55ffbe94c69,1674632438,13,1.32.127.255,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+141,788c31b2d3b04a8ab0f46b3cf117c1fa,1673437570,48,118.201.183.106,Women's Apparel,0.9,Internal,www.demo.com/WomensApparel,FALSE
+142,aa49260467bf45b788627d0da93b2737,1676585050,37,1.32.127.255,Women's Apparel,1,Search Engine,www.demo.com/WomensApparel,FALSE
+143,927472503c8b40fd84ed858efec64969,1676521581,5,118.201.183.106,Women's Apparel,1,Social Networks,www.demo.com/WomensApparel,FALSE
+144,77507fa93a5d4482b243c11aa3a34db8,1676539612,61,118.201.183.106,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+145,3f4f61b8c7084f5ea75f8ff015489b63,1677284542,58,27.131.128.0,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+146,612140b45737414eabcbda9bca1b6d00,1677250985,24,118.201.183.106,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+147,6c48fedead574db49a0e99cb8989fef1,1672556770,50,27.50.31.255,Women's Apparel,1,Search Engine,www.demo.com/WomensApparel,FALSE
+148,adaa144718bf4545ae0b992dc78734b9,1672577605,64,118.201.183.106,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+149,1936fb1482744f079cdc9e39e38234c3,1673034874,28,27.50.31.255,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+150,c9b21ef52af84bbda9a1f37b19e53bbc,1677347093,35,27.79.255.255,Women's Apparel,0.9,Direct,www.demo.com/WomensApparel,FALSE
+151,fe9baacf966e418da49bfac2195aacc5,1675969942,25,27.79.255.255,Women's Apparel,0.6,Search Engine,www.demo.com/WomensApparel,FALSE
+152,5325b5039c9e4338a9b65983984cb317,1672566289,32,103.101.47.255,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+153,6fece29a42c64b8c982874a842618fef,1675662685,66,1.32.127.255,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,FALSE
+154,61647bbf89f84b20a9342a7d3ec31044,1676447211,6,27.79.255.255,Women's Apparel,0.9,Social Networks,www.demo.com/WomensApparel,FALSE
+155,7dc7f04efe1f4028ba12d2d4df15a681,1673039177,56,118.201.183.106,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+156,1518d3c282a84693a3af5f1ec983a22c,1675131423,50,118.201.183.106,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+157,6ecb12336fc64eca97b5eb932bee041b,1675695176,15,27.50.31.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+158,7bf9957745b2458bb75b440580cb2382,1676981282,12,118.201.183.106,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+159,9fa99330185d476fa83f878860c08ace,1673620760,30,27.50.31.255,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+160,0faefcd516244b339cabcce921c3d843,1676657319,44,27.79.255.255,Women's Apparel,0.9,Direct,www.demo.com/WomensApparel,FALSE
+161,47a4bf5c8d794c68837b97ec45dfc776,1677245943,20,118.201.183.106,Women's Apparel,1,Search Engine,www.demo.com/WomensApparel,FALSE
+162,87aa67a1a0bf40bc9edcd25882a642c3,1674059566,58,27.50.31.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+163,2c43cde132de48059d5bb41eee1165be,1674378079,47,118.201.183.106,Women's Apparel,1,Direct,www.demo.com/WomensApparel,FALSE
+164,b547d20c14ea4925a518945ba488855d,1672884149,21,27.79.255.255,Women's Apparel,0.8,Email,www.demo.com/WomensApparel,FALSE
+165,29e4c4648d1b47f5bfacb36950c1dc50,1676075917,51,1.32.127.255,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+166,2d715564040b45cb96313a114bcbade9,1674528293,18,118.201.183.106,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+167,2438fd1a20244fad9fdc618ef49d3d6b,1675968454,62,1.32.127.255,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+168,c86dc5b1b8064f79a3876a041279958c,1674871830,70,103.101.47.255,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+169,8911acd23dfc419cbb967c479e38a7e6,1675378380,17,27.131.128.0,Women's Apparel,1,Social Networks,www.demo.com/WomensApparel,FALSE
+170,624a2680fa544432be5d552fd75f4aea,1674917319,34,27.50.31.255,Women's Apparel,1,Search Engine,www.demo.com/WomensApparel,FALSE
+171,881e5285765645c7932247937d1a4591,1677225446,42,118.201.183.106,Women's Apparel,1,Social Networks,www.demo.com/WomensApparel,FALSE
+172,010a642e6a8a47b9aec7a47e594a50d9,1674652446,37,1.32.127.255,Women's Apparel,0.6,Back Links,www.demo.com/WomensApparel,FALSE
+173,3c463221c2294891abdb718ece539246,1673042092,35,103.101.47.255,Women's Apparel,0.6,Search Engine,www.demo.com/WomensApparel,FALSE
+174,7bd6c97c0f5f45d9956242852ce77e38,1673993134,43,118.201.183.106,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+175,63b53882a1f6450082b82386b8e26c04,1673821428,41,1.32.127.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+176,a5cd81b3a38c447cb9b1875e18570139,1675935135,13,27.79.255.255,Women's Apparel,0.9,Direct,www.demo.com/WomensApparel,FALSE
+177,29e28923eb07419fa3a9c8d0b0b5b4dc,1675580613,28,27.50.31.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+178,02fc08ed8c874e86a181b9abada6e841,1675041052,39,118.201.183.106,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+179,0efd32b1b8c0478fb43cf327d58e0bdb,1675618791,34,118.201.183.106,Women's Apparel,0.7,Direct,www.demo.com/WomensApparel,FALSE
+180,9532ff13a2f74ee68c2e550871bd961c,1675930292,3,103.101.47.255,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,FALSE
+181,0b56bdfb29014456ae3fe202c3615bb6,1675659521,34,1.32.127.255,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+182,89ee445fac8247a38f1ec07290af6516,1674780019,21,103.101.47.255,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+183,ec6c2ffd43524979866bcb0a0b51e724,1676132137,30,27.131.128.0,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+184,c58eac5983b34a4586f69ac82a076750,1677399926,17,118.201.183.106,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+185,132b632c03ca471d9ad9621ac74ac451,1675739590,23,27.131.128.0,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+186,fc9193ad0fc144388701e7bd0539328d,1674140607,53,27.50.31.255,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+187,d9840c0eada44960a8df8c90fc6f9ba3,1676298508,34,118.201.183.106,Sports & Outdoor,0.6,Direct,www.demo.com/Sports&Outdoor,FALSE
+188,21fd8cfa273d48698cefd304955eaa4f,1674761319,22,118.201.183.106,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,FALSE
+189,3a6eea03ffac4bcd953e3574b68f7b88,1677491885,40,103.101.47.255,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+190,92c33e754c4d4f3f9ba1dc224fa5d7f6,1675798004,27,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+191,d9170c38cc7140c7a989f7f37bce44f3,1675214464,67,1.32.127.255,Sports & Outdoor,0.9,Internal,www.demo.com/Sports&Outdoor,FALSE
+192,52f239b653764cf5b8b77e35392312c9,1674028377,11,118.201.183.106,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,FALSE
+193,9a9a6d9d7a06492fb2a6cd5b2cc9404a,1673256603,58,27.131.128.0,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+194,41eb7ab54afb45e4b26ea2b4d744cf6e,1676292558,68,1.32.127.255,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+195,6a8b9a407411442d9e072535e36dc9f1,1676629392,34,27.50.31.255,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+196,6754cd921e7a4985a16a6ae5524a3025,1674698753,11,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+197,6c177615e48c49ffb5fe7ba107100f6a,1676658181,28,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+198,9d0782f04de54899aaba954bd907dd8c,1673354231,63,27.79.255.255,Sports & Outdoor,1,Direct,www.demo.com/Sports&Outdoor,FALSE
+199,63569a4c604f4917bed62fd31e740bfd,1676211371,52,118.201.183.106,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+200,d072b58046374a6cbfc1d1c2114e405b,1672770196,41,118.201.183.106,Sports & Outdoor,0.9,Direct,www.demo.com/Sports&Outdoor,FALSE
+201,e22a85801810436ba478147ba3553aa9,1674701243,10,118.201.183.106,Sports & Outdoor,1,Direct,www.demo.com/Sports&Outdoor,FALSE
+202,f0f9616c9a9548e9abce854b11c49285,1673731212,57,118.201.183.106,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,FALSE
+203,d75b78f82e4545a6bdf2181db2db94cf,1673609935,40,1.32.127.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+204,0b3015d3f6c5487b916edd53b19737c7,1673398319,6,118.201.183.106,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+205,ff5ac09ab3544cc29650b97de2405ca5,1674220824,27,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+206,606c1d278a644bf0b760636b5419e4f2,1674671970,69,27.79.255.255,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+207,0975052ba7e34a1fa61681eed2f62afd,1675314417,42,27.50.31.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+208,66ad2b2461db4d61a5831d8bc5b079aa,1676825361,30,118.201.183.106,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+209,903f770f0faf4b02841f423a9162638c,1675356043,29,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+210,ce9a9fcf1d4b4e87ab505a0fb81a27b5,1677021876,35,118.201.183.106,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,FALSE
+211,fdaeeda3a3b448308905bd831ad8757a,1673304136,28,27.131.128.0,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,FALSE
+212,b8f784398b074e10ae7ccb2be9af6d3c,1674449158,5,118.201.183.106,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+213,1fb9cc72e92446c6b76df66a0ffe3ae7,1674980921,62,118.201.183.106,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+214,9b7488edba3046b594100f9a258cb89e,1675363520,43,103.101.47.255,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+215,342a5c550ba4464e95dec82aef7c74cb,1675982320,53,103.101.47.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+216,875448e346d944bab40ec1e5419c439c,1677050960,23,27.131.128.0,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+217,685d63dcfef4449a94a87df7d3bde6ce,1673454228,62,1.32.127.255,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+218,ec6fc73b261948b48d5d64bb1f8d7085,1673841879,10,27.50.31.255,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,FALSE
+219,329925a007ce4fa1a997fb0bb0ce9155,1676155842,16,27.50.31.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+220,ca446375856849289fc80c71ae2c60ad,1676990982,4,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+221,3a8a8ccbf05748a185d87cef9810c377,1674299557,54,27.131.128.0,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+222,f76ba3ce7c09453bac7387a343da5c40,1676966961,70,118.201.183.106,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,FALSE
+223,1c28ea911b2b46179781832cfc3434f4,1676248269,28,118.201.183.106,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+224,1105417a8a914ab68f85e3d6191fd4c5,1677202548,57,118.201.183.106,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+225,76a60c593e7143e6862ba7ea8ed32367,1677179150,62,27.79.255.255,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+226,57fbe5aaff9b41dfa2646f0e8e18df0f,1673823867,25,27.50.31.255,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,FALSE
+227,bebd2b8c99b64551a8bac72cb7169fcd,1673938165,10,27.50.31.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+228,e28f003c6c41421a8f36b81c1e1263f4,1672857397,70,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+229,743a936deb904d80b0619110c8761c9a,1675691879,59,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+230,10710507f81a48d3a332b807a30412f9,1674062764,28,27.131.128.0,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+231,323ff38d23944762b3c16f61076ce255,1677037505,55,27.79.255.255,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+232,9ee02e57691d4f33b77464d8d339e67d,1675987274,25,1.32.127.255,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+233,dbd3ad3d5d9546af9d7e8cba35fe2a64,1673746161,49,1.32.127.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+234,673304e689b94ff0a5d0cc9a291fdeb3,1673618131,47,118.201.183.106,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,FALSE
+235,742237ef63944c6592adef3d6d95a071,1673268433,5,27.50.31.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+236,c0188d16274a440f985d567e0e503036,1673944936,35,118.201.183.106,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+237,d1ab8503313d43a99e75a70d4b4f2071,1676463401,9,1.32.127.255,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+238,7ee8f4a9da5b43a1937aaaee68704291,1673485577,42,118.201.183.106,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,FALSE
+239,aed766d4a9af4391bb2c9e92bc322cf3,1676911587,26,27.79.255.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+240,d262abe2e26a419aa7be3cd9f9ce1b09,1677172678,33,27.79.255.255,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+241,b153c9406de14ff994ec9642bb9e0a94,1673578284,61,27.79.255.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+242,748fe98210b447d0b5591b5588bf3b7c,1672772198,23,118.201.183.106,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+243,02ce48e8b7334cb1b106117ba218cbea,1676632404,64,1.32.127.255,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,FALSE
+244,a28b3dc95d114dafadb286c95b0e7157,1675033403,3,27.131.128.0,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+245,88fb354d3ceb48599aa04bbe73e12fb9,1675389714,51,1.32.127.255,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,FALSE
+246,2be57b8a0e14422785b197ea69a62ad8,1673288037,12,27.79.255.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+247,d582e276d85545b89603f2f63dc6a289,1677363484,37,1.32.127.255,Men's Apparel,0.7,Direct,www.demo.com/MensApparel,FALSE
+248,19b7e07e19cd4b4c8a0ac6349fefe0a6,1673701386,23,27.79.255.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+249,dff77c8ae7f24b7db5a939ac96247ba6,1675950686,43,27.50.31.255,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,FALSE
+250,7d4f25765693415c8185c05bdeaa94c8,1674129711,9,118.201.183.106,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,FALSE
+251,4466cadfa2934ed58e3ad4fc61151bc1,1676314927,18,103.101.47.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+252,51b931d41078474c8b1b22f1b4e69fd5,1674515053,53,1.32.127.255,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+253,3c099df48bed44e3bc82adabcc0a1b1c,1672796003,14,27.50.31.255,Men's Apparel,0.6,Back Links,www.demo.com/MensApparel,FALSE
+254,eb0139df7d504e4793e78d05707e6fb8,1674630732,47,1.32.127.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+255,900b91e4dc4c4c07bb72b16bc5996eeb,1676672104,15,27.131.128.0,Men's Apparel,0.9,Direct,www.demo.com/MensApparel,FALSE
+256,6af47f922ae84a37ba91a902ca7b29cd,1672875068,41,118.201.183.106,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+257,39d0d937a2fe481db962e9075a7a326d,1677047608,41,103.101.47.255,Men's Apparel,1,Direct,www.demo.com/MensApparel,FALSE
+258,0d187ec8657844a78fa07c9afad22bb3,1676996340,54,103.101.47.255,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+259,fa9ff485d63642bc9dcf497a3f91b8a4,1675996992,33,103.101.47.255,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+260,c6446c24d34b4047a4c36d08869844cb,1677282442,65,27.50.31.255,Men's Apparel,0.6,Internal,www.demo.com/MensApparel,FALSE
+261,7f22c5148a384f43b95e27f6fb6b30fc,1673062395,49,27.50.31.255,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+262,9e337e90a6f64b36b5d84c51edb265a0,1674420928,8,1.32.127.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+263,909bf96538764603ad156113d225df6f,1675515398,64,118.201.183.106,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,FALSE
+264,964f9d95195941fc97227c27e0dce09b,1674026821,64,118.201.183.106,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,FALSE
+265,933c910a72004c398d12dc73311f985a,1673977735,17,118.201.183.106,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,FALSE
+266,60ac4d3cf43a4662b1090aa3134fb5aa,1675179171,12,27.50.31.255,Men's Apparel,0.9,Direct,www.demo.com/MensApparel,FALSE
+267,ec4b4a3ab5454fb18854da16410cd6eb,1674294589,54,27.131.128.0,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+268,ab3468d8d0234b1b97511ad6f3e15c50,1674239144,43,1.32.127.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+269,c4cd9d95a4f741cf8bd1a886e8c6b706,1677075022,38,27.79.255.255,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+0,4000d1010f37471daae8ce3feb7ba989,1676703077,6,27.50.31.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+1,729b1cb8dde14a2e9681cd67a6bacdd2,1676063899,58,27.131.128.0,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+2,777857aa553648dab52f157f15dee853,1673182571,39,27.131.128.0,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+3,2e9f60cacf7244f088b083eb5d2b449c,1675441681,7,27.79.255.255,Women's Apparel,0.9,Social Networks,www.demo.com/WomensApparel,FALSE
+4,d691fffe05714429b701ef49f52899de,1673790431,19,27.79.255.255,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+5,46760be4b2984f228f6e3e53d3849102,1672847512,26,27.50.31.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+6,427beff598be4534b43d4805a40b16b2,1674823553,19,118.201.183.106,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,FALSE
+7,644d2c7b42dd4b45bed873608edf1631,1672802483,10,27.79.255.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+8,d12f7c6401e74f019c7529f941bd4067,1675004782,22,1.32.127.255,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+9,ead4d41cafe24beba6b469fb493723f5,1676361168,69,1.32.127.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+10,ec65f4f4ab2a463489b3bcf6357810d8,1672905083,23,118.201.183.106,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+11,6e50d398a47e40948e0c24b3b3e71f3a,1676346598,8,27.79.255.255,Women's Apparel,0.9,Direct,www.demo.com/WomensApparel,FALSE
+12,4b23f28df3cd464d8a6beb52dc6495b2,1673025887,20,118.201.183.106,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+13,7d87b48b19dd4ba1a2b4ba30ef7978e0,1674072719,44,27.50.31.255,Women's Apparel,1,Direct,www.demo.com/WomensApparel,FALSE
+14,94c046c8228d4736ae2e4043133bd7eb,1674689015,44,27.79.255.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+15,ef5acdf66acc4cc3ac72c58d5d10f12b,1676711451,39,27.79.255.255,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,FALSE
+16,5b3eba64cec84818b366f73069b66691,1676855393,26,27.50.31.255,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+17,e8ae48d3925a40e8936bc902c7d0f6b3,1676629689,42,27.79.255.255,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+18,f929e4c5b93d412e85aeb388b801847a,1676616583,45,27.50.31.255,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+19,617aa9bb46764d7b8e4ee3da16233cbe,1673375590,51,27.50.31.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+20,f6924ba47df049a3b7e4153b5d4b7626,1672765562,14,27.50.31.255,Women's Apparel,1,Search Engine,www.demo.com/WomensApparel,FALSE
+21,9038786dff2b439895680e875ba0f24b,1676023006,50,118.201.183.106,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+22,e2b2881ed89f41449993bbe1c333f1fb,1677463950,69,118.201.183.106,Women's Apparel,0.9,Direct,www.demo.com/WomensApparel,FALSE
+23,9cb0149072984fbcbf180bcbd39d244b,1674655797,55,27.50.31.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+24,88928a6bd7014b268f2231dee964411e,1673555725,38,103.101.47.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+25,5d1208fe91604161a18a47e0f6599f85,1673110783,20,27.79.255.255,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+26,9b0e5b98ee5c4ee781d0540bd5e64e6a,1675307448,39,118.201.183.106,Women's Apparel,0.6,Email,www.demo.com/WomensApparel,FALSE
+27,214b759ded6c49ea81963daecc3028f9,1674055888,13,118.201.183.106,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,FALSE
+28,5b497dd7d4504a90b7c191f3fc5a8a00,1673322437,28,118.201.183.106,Women's Apparel,1,Social Networks,www.demo.com/WomensApparel,FALSE
+29,d3e92159fa154655b55996d21bf28b78,1672736809,7,118.201.183.106,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+30,d9f9da1f5b8f40e2b9ba6060a777d0bd,1674397312,11,118.201.183.106,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+31,017fc65f297548c6bf55a55185ed5fd8,1677408699,66,27.50.31.255,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+32,d20626fb67084591b27f723419179c86,1674814775,30,27.50.31.255,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+33,e0194ea0a3c74e3e87dece1550f994d0,1676827851,38,103.101.47.255,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+34,09ae8c9f27554900885f856ef2086746,1677079863,34,118.201.183.106,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+35,82d38de71469417faa155d1626d98017,1676873222,7,118.201.183.106,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+36,90cb7b03129444599e97acce5c5876c9,1673999798,8,27.79.255.255,Men's Apparel,0.7,Direct,www.demo.com/MensApparel,FALSE
+37,c5d20980fdb2494a9156ab742a719c54,1674174248,26,27.79.255.255,Men's Apparel,1,Social Networks,www.demo.com/MensApparel,FALSE
+38,bbbcc453f0334a5b92816cc0110e6f7a,1675676852,26,1.32.127.255,Men's Apparel,0.7,Direct,www.demo.com/MensApparel,FALSE
+39,e7e4b27bf8674567a56f1ec2d8b75b3a,1675398135,13,118.201.183.106,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+40,b3c463db652349bab5efa0d817db0928,1674225925,39,118.201.183.106,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+41,b2db25ad059d41cab60d40cf2c9b4eb6,1673028234,40,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+42,dca7bff421674af88e939afd59014476,1677186071,13,103.101.47.255,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,FALSE
+43,169a3cf8511749f585e832a13427dd8f,1672708279,29,27.50.31.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+44,7610e3d4a9da47f49b2882651e3919b7,1677189305,45,118.201.183.106,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+45,1e4f7a8700e44f3bac4c5dfa7dea300c,1676175463,6,27.50.31.255,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+46,5d3e2c5d93f341fbaf904e8ad394804c,1676083987,17,27.50.31.255,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,FALSE
+47,afb8c020028b45969b093d096ec1a18f,1676237650,52,103.101.47.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+48,3dea4039f55b49e587e65c924c0363ea,1676279620,36,118.201.183.106,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,FALSE
+49,bc58d75f94df4cd5b4b366565bd25f4c,1674828222,36,118.201.183.106,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+50,522a87de13ce4b16b7c8c92cdc320c00,1673215209,39,118.201.183.106,Men's Apparel,0.6,Internal,www.demo.com/MensApparel,FALSE
+51,03cc88d69f73458f93e7ed0616bd6459,1674094209,39,27.50.31.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+52,2824ae7f32c0458486606fa48c3bff5f,1677313668,68,118.201.183.106,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,FALSE
+53,642d8f9b817b4342958e5941e0f12da7,1675043004,21,118.201.183.106,Men's Apparel,0.9,Social Networks,www.demo.com/MensApparel,FALSE
+54,3bca11b4185d430488afe28a7f21c61d,1676775738,41,1.32.127.255,Men's Apparel,1,Direct,www.demo.com/MensApparel,FALSE
+55,ab8a83ae27c948058e7f1beda488b64b,1676589591,45,27.131.128.0,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,FALSE
+56,97cc7fdf08df44d29098c0a519129c4c,1673226057,55,27.79.255.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+57,6d6bcc4547bf45449e03dfe2c8a0ba29,1675931639,12,103.101.47.255,Men's Apparel,1,Direct,www.demo.com/MensApparel,FALSE
+58,5e1419a1704c49478a2a71479e9d85d7,1674420163,39,118.201.183.106,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,FALSE
+59,5cb7ec93b485441f841ea4207ad30074,1672949936,52,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+60,0bc9c769a39f44c29d654e31c4c5a524,1673160459,69,27.79.255.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+61,1da2e1a16ca14f1e816d954841e9c370,1674457960,56,27.50.31.255,Home Appliance,0.9,Social Networks,www.demo.com/HomeAppliance,FALSE
+62,8749bd42fda64d3d8a0f2c6773ff7504,1674058058,32,118.201.183.106,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,FALSE
+63,e2171c7ddf3540f18e54062616222389,1674865417,17,27.50.31.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+64,45fa33d2425a4c6497ae09d8d116a5f8,1675516116,52,27.50.31.255,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+65,7bb5aa1040f646d683296c5ced0f2cfc,1674025912,5,118.201.183.106,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+66,60095b3b7a3f4a8fb9c83a383266ac96,1677259958,54,27.50.31.255,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+67,9eb420c49107423b9b91055d6667c043,1674929034,11,1.32.127.255,Home Appliance,0.6,Back Links,www.demo.com/HomeAppliance,FALSE
+68,99bd3586e4a8415ea9e0fe1f5f09df76,1675970646,10,1.32.127.255,Home Appliance,1,Social Networks,www.demo.com/HomeAppliance,FALSE
+69,8e8e581ef96b4152a653225ae3c5362d,1672706622,58,118.201.183.106,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+70,95dd830406f3424fa1fc674329de3a92,1677434759,55,27.131.128.0,Home Appliance,0.9,Direct,www.demo.com/HomeAppliance,FALSE
+71,07ca8ea56fce4ddaacc4e105426914c1,1674884500,59,1.32.127.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+72,993d7020da5e4afd9f7c9abba1475305,1674370648,33,27.50.31.255,Home Appliance,0.6,Social Networks,www.demo.com/HomeAppliance,FALSE
+73,cedff603a80e4d1cae4e3d62a799b5b6,1672738814,56,27.50.31.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+74,217f06254f054911b8cfeffddb37cf84,1676752711,48,27.131.128.0,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,FALSE
+75,5997975db2094f40bc97b39d3cc1f1ea,1676507382,48,103.101.47.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+76,0d3e466b93a84cfda8cb408fc6a0bcc4,1675589773,39,27.79.255.255,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,FALSE
+77,f2452e3d100e4e0e860b2bb1706011f6,1675059375,4,27.131.128.0,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+78,3c008f47661846e1b83c8ef13f3c0162,1672798097,44,27.50.31.255,Home Appliance,1,Search Engine,www.demo.com/HomeAppliance,FALSE
+79,1cc4003f27b1437ca1a2f3dfced56fca,1675471122,64,103.101.47.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+80,b0626ba22d5d4ad69e9272b650b5df3b,1674047231,15,118.201.183.106,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,FALSE
+81,9ccc80c0dfe844afa14de64660d641bf,1675676334,56,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+82,34f8fea123064844aae2746dda16f7d7,1673499452,14,118.201.183.106,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+83,0a9e82af9f5b4ef7a6c71ec1f155f08e,1677038364,49,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+84,21f1df1e6be644f398fefdea806ece98,1676923925,22,27.79.255.255,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+85,7d06dd433f3849b0ba5addef3712ea7d,1675957622,13,27.50.31.255,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+86,6575330e571f47a088405802ee0542c2,1677197852,20,118.201.183.106,Sports & Outdoor,0.6,Direct,www.demo.com/Sports&Outdoor,FALSE
+87,ffb1e0ed39b7475190249d04018fa287,1672786761,58,27.50.31.255,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+88,3d386979029143bf96be9259af6677b9,1676852955,56,118.201.183.106,Sports & Outdoor,0.6,Direct,www.demo.com/Sports&Outdoor,FALSE
+89,6158b5b1d2794320999c188acef84d05,1676620831,24,27.50.31.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+90,6449228f911a41228b95c1622a3e350d,1675422451,44,118.201.183.106,Sports & Outdoor,0.9,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+91,dd144bbf0c5543d3ba3ed9b25f4a09d3,1675691682,3,1.32.127.255,Sports & Outdoor,0.8,Email,www.demo.com/Sports&Outdoor,FALSE
+92,b3ff04f7679740209d66b7de0182e08b,1676747399,49,118.201.183.106,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+93,2a3a7937e5464b1f8b41461b10d43540,1674453138,7,27.131.128.0,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+94,b0182a449aef48aabfd5fc9451b865b3,1674089294,38,27.79.255.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+95,7ecb000d038d4a2ca7fce56278af43e7,1673976136,14,27.79.255.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+96,992710e0c66b48cc8b3231d771be334e,1677421245,36,27.50.31.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+97,5f812a02ebff48579af9e243a89bee97,1672993389,43,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+98,c12d966963c5493f90c61310216613a7,1677329546,53,118.201.183.106,Sports & Outdoor,0.9,Direct,www.demo.com/Sports&Outdoor,FALSE
+99,dd6c23f896664a169eaf14136c075444,1677107974,46,118.201.183.106,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+100,3154dd4a8be446c29163dc9ab0f909ac,1672898016,19,27.79.255.255,Sports & Outdoor,1,Direct,www.demo.com/Sports&Outdoor,FALSE
+101,ba685a6561c445b287d7b6e7bd37da3f,1676179930,31,103.101.47.255,Sports & Outdoor,1,Direct,www.demo.com/Sports&Outdoor,FALSE
+102,fcd7f056639544d0b9aa8f78580d106c,1676381383,30,27.131.128.0,Sports & Outdoor,0.9,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+103,ae522fed9b2a4286a8b7433b980e55a6,1675073851,43,27.131.128.0,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+104,9e0cc8f7c13d4edf919782b6f98720f3,1673608227,14,27.50.31.255,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+105,591fd1199b99480db1c518aed3150588,1673218341,14,1.32.127.255,Sports & Outdoor,0.9,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+106,6c6fd5f4ba504c56825d8b0d9d5782c0,1677215847,17,27.79.255.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+107,8b7f1ab993c94a6c95b94b66ba23c2a1,1674344876,26,118.201.183.106,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+108,4663657a240a4795a6fbe21a37020790,1674761017,5,1.32.127.255,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+109,ad85414cca334b02857fcc7b6a980d06,1676624127,31,27.50.31.255,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+110,5130c746f666499eabd64f4a660ba8eb,1675650536,42,118.201.183.106,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+111,7686497bd04643d3b296c2774e2bb5fe,1673328677,31,118.201.183.106,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+112,180949bdbd904e7289a7619be960b987,1672608434,59,118.201.183.106,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,FALSE
+113,36eab6f0088748a79b83bb632e694bc3,1672627423,34,118.201.183.106,Women's Apparel,1,Email,www.demo.com/WomensApparel,FALSE
+114,3155feed373a42c6be7e403ed79c7e76,1676031148,64,103.101.47.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+115,dd48d53e676b4852bccf86f988a34ad7,1673871177,12,118.201.183.106,Women's Apparel,0.6,Search Engine,www.demo.com/WomensApparel,FALSE
+116,f0ef598b8d384f109244ed67560b813e,1675529642,46,27.131.128.0,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,FALSE
+117,2364dae03c054c84886961b48d762fd8,1672945375,55,118.201.183.106,Women's Apparel,0.8,Social Networks,www.demo.com/WomensApparel,FALSE
+118,5fbf7af0d36e40aa9af68c21fa779f1b,1674553559,42,118.201.183.106,Women's Apparel,0.6,Search Engine,www.demo.com/WomensApparel,FALSE
+119,f4dc66a604554bb6bb538092872f75a8,1677010364,45,118.201.183.106,Women's Apparel,1,Social Networks,www.demo.com/WomensApparel,FALSE
+120,c70c45c4073f4a388c014aac2bd83c1f,1673502294,29,118.201.183.106,Women's Apparel,0.7,Direct,www.demo.com/WomensApparel,FALSE
+121,84407b4966d64152bc09f0d5be12931a,1674446221,54,118.201.183.106,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+122,daf6ec8c0373440286c2368649162baf,1673407550,50,27.50.31.255,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+123,5645cbab90e84abb9b56e5224a4d5a37,1676002104,24,1.32.127.255,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,FALSE
+124,3de60b9f8aa448eea803806a9c4bc146,1676508588,59,118.201.183.106,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,FALSE
+125,8220e31d7fb44af6ae66ca84233d25b1,1673027709,47,118.201.183.106,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,FALSE
+126,dd93be97e8e44d178f38a934b9dcf30c,1674943565,3,27.50.31.255,Women's Apparel,1,Search Engine,www.demo.com/WomensApparel,FALSE
+127,36760960983b42ceac08bd13364c5d3d,1676078575,60,118.201.183.106,Women's Apparel,1,Direct,www.demo.com/WomensApparel,FALSE
+128,40e1873d646149259b1e2e9adfca588a,1677128034,20,118.201.183.106,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,FALSE
+129,3bf1af1cdcb34575880c4d6a55c8a485,1675769929,38,27.79.255.255,Women's Apparel,1,Direct,www.demo.com/WomensApparel,FALSE
+130,a39cb050da224dd69913dc2c15b797e9,1675279199,32,118.201.183.106,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+131,eb1e87c486764ecab6189317f227213e,1675483680,5,118.201.183.106,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+132,ba786ffc280943ed9d1de954c367fd8f,1676481308,39,118.201.183.106,Beauty & Personal Care,0.7,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+133,dbe0703d93fc4b88ad537671c02e0579,1675816058,48,27.50.31.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+134,4ada019412844ca7a7ad90c86021b4b4,1674758793,35,1.32.127.255,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+135,047cd27534d54540ab370c8ccc287108,1674603833,64,27.131.128.0,Beauty & Personal Care,0.7,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+136,ee62609ee8e249089cf514d23d3a095b,1675556505,15,118.201.183.106,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+137,ca476b1ea054433f8802139f3c2cf878,1674456237,15,27.50.31.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+138,c531e358080e489a983eac54e1fe9b56,1674249848,41,27.50.31.255,Beauty & Personal Care,0.7,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+139,32eb093c183942ecb79b4bbabee700ff,1673248061,3,27.79.255.255,Beauty & Personal Care,0.6,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+140,68022b2c6ee445448c20d04c5f2f8e76,1674605346,24,118.201.183.106,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+141,97fb9e47f3034f2b9a245348e464d9b4,1675990372,34,118.201.183.106,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+142,b00d38c738ee4f91bef84866810f78f0,1676190591,60,118.201.183.106,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+143,9ef87aa32e7f4488852b5460c2e84112,1673716242,7,27.131.128.0,Beauty & Personal Care,0.6,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+144,6b246da6d4304aadb0d526beab0590ef,1674200361,13,27.79.255.255,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+145,0cca3f2b364e4e71829effa19030f339,1675800551,45,1.32.127.255,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+146,1502df299b8749e2b91d3705b7c8d815,1676682324,68,118.201.183.106,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+147,8feb0f1629d04565a261bba9cf3d5b3b,1676652283,66,1.32.127.255,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+148,97bed9f7fc5a4676b8877fc8e454ef87,1675287573,9,118.201.183.106,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+149,4ff267b07b534030a6c2592c01231c75,1673157907,59,27.79.255.255,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+150,8cc1d4ddadfc4abcbd20be3e4ef0b825,1676454869,31,27.79.255.255,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+151,0c9bf2c9995547969e3ae9848d0854b7,1674223587,64,118.201.183.106,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+152,5c2eb6bdbc3442678ad14a01b5f977f2,1672785246,7,27.79.255.255,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+153,81f6a925dc2044c7a4853e192b8feb28,1675227804,27,27.131.128.0,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+154,ba2884ee8dab4b128cec957ba80df5e2,1673502221,18,118.201.183.106,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+155,fa88d550ccfb47b78c4bf73468e76c7c,1674115383,67,118.201.183.106,Beauty & Personal Care,0.6,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+156,a657c4928aa54a8e857378e90d660185,1673367705,67,1.32.127.255,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+157,ce9dbaa63a8c47a8b41a127b13494b58,1675471304,17,27.50.31.255,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+158,4fbe30336fcf4dae9c309ae10ac18116,1675047240,63,118.201.183.106,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+159,b35fbf0fdfa145949246c0173095cc24,1672768631,15,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+160,bcc29a266dbc4192beefd03f2a8209ff,1677317070,20,27.79.255.255,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+161,634ced2e1e944514ac35b4cf323c1cc3,1675900613,23,27.50.31.255,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+162,57f1fee59d374eb69c02d595db3d5874,1676584797,34,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+163,22d40cbce39444b9ae5f36983e60108c,1673581872,54,118.201.183.106,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+164,a09ad8b95c3a489f952427026248cbb9,1677231773,37,118.201.183.106,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+165,d64f7ea5600a4176a2b73206340bff91,1676179256,63,103.101.47.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+166,466fa92c3c6c4b498c56f69e95d3266f,1673377694,19,27.79.255.255,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+167,6dd5e57ca95b4380a699fcf4d1964409,1673074350,54,118.201.183.106,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+168,a34f78e13b3e453e82dd63e91be35a86,1672565377,25,1.32.127.255,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+169,29b562d970ed4c3eb97fb3ca0d46900f,1673993282,17,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+170,5f4699a1c7a94dac8a2568ea51a7ea21,1675256146,48,118.201.183.106,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+171,c6c47057162b40ba825016a070293fec,1676370766,67,27.79.255.255,Sports & Outdoor,0.9,Direct,www.demo.com/Sports&Outdoor,FALSE
+172,1111e2e78cd4493dacc241749562d2b9,1674419136,12,1.32.127.255,Sports & Outdoor,1,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+173,9d14c0a9d9164e9bba5a3ab2054f9355,1675843690,56,1.32.127.255,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+174,39e8506e2bfc468da78b590f979eb582,1674808055,25,27.50.31.255,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+175,86c58eba3d184ad89cf511bccb56c101,1673688504,32,118.201.183.106,Sports & Outdoor,0.7,Social Networks,www.demo.com/Sports&Outdoor,FALSE
+176,9188e623375a4668a70073a8007d6b49,1674763169,66,103.101.47.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+177,8adafa021ef64a4090efc1db2c864063,1677113250,30,27.50.31.255,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+178,9d4a7f092a96457390a2da2c85b86659,1675211605,61,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,FALSE
+179,20064eadfd904fbe80973738789473be,1676609902,61,27.79.255.255,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,FALSE
+180,973aa0ab7c4c404fad48e891a33c4b14,1674524934,41,118.201.183.106,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,FALSE
+181,a8eb00cfa6164fdf9ab4266a584a1c68,1673340359,9,27.50.31.255,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+182,56536f39e96247529776b76e8f873667,1677183973,57,118.201.183.106,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,FALSE
+183,81604057b93446f4a0b8e1d5fc28760a,1675901365,47,118.201.183.106,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+184,e5f333681a134e168a173182cf1aed44,1673689646,31,118.201.183.106,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,FALSE
+185,8d53640a3cdf444c8d9dc87af2b14e54,1672832943,32,118.201.183.106,Home Appliance,0.8,Email,www.demo.com/HomeAppliance,FALSE
+186,f17de2a6621c4799ac934063eb2eb529,1674917999,40,118.201.183.106,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+187,5c8f448ffc24409b8d37f65f61cc5dd7,1673880381,59,118.201.183.106,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,FALSE
+188,c63e1a5fc6d344d0a5697d4f842b60eb,1674135421,70,1.32.127.255,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+189,ea142b5cc0df4456974dcee31847ccac,1676953794,30,118.201.183.106,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+190,282e56a4661e469a9dc41b0a3c550dfd,1675498653,46,118.201.183.106,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,FALSE
+191,96f237353ca448ea8fd6f791d419f838,1675249188,3,27.79.255.255,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,FALSE
+192,af9ec1a3b7b143a09b744731ebfc40e5,1672770113,16,118.201.183.106,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+193,907f5f767c514208909ed3bca697072d,1676027147,50,1.32.127.255,Home Appliance,1,Direct,www.demo.com/HomeAppliance,FALSE
+194,428ec5efced54ce28dbe0c8b598298b8,1677423183,56,27.79.255.255,Home Appliance,0.9,Social Networks,www.demo.com/HomeAppliance,FALSE
+195,e5b3e4d7063347f59bd387cc8eacc616,1675748484,58,103.101.47.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,FALSE
+196,8f386d70db4a45ae893ab42dad2446c4,1675644292,30,27.50.31.255,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,FALSE
+197,831364ea85bb41eabd60e9d310b565d9,1676124047,47,1.32.127.255,Home Appliance,0.7,Social Networks,www.demo.com/HomeAppliance,FALSE
+198,2e889192e38d4edc9dbf7c0852b63d47,1677292444,7,118.201.183.106,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,FALSE
+199,2045603dcda847a582366f6bafe61baf,1674150569,21,103.101.47.255,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,FALSE
+200,913a3b4f092e47df912c717efa711b12,1675797307,31,27.50.31.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,FALSE
+201,af633e2dda184f51a545d2aae47a6ba0,1675866991,11,118.201.183.106,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,FALSE
+202,21b92be002c14813aeab3b0fa44ce718,1677428061,33,118.201.183.106,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+203,5e4df4a135a64016b954677cdbb0da6b,1674441016,32,103.101.47.255,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+204,a7720eecd76341a980db2211c6f84529,1673069173,56,118.201.183.106,Beauty & Personal Care,0.7,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+205,14e33c70b3544a7f9510e3ef364fb0b4,1674441511,44,118.201.183.106,Beauty & Personal Care,0.6,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+206,30d1ac8a60764dd69ec8a1709c6c1df9,1675891371,11,118.201.183.106,Beauty & Personal Care,1,Email,www.demo.com/Beauty&PersonalCare,FALSE
+207,32a14042811d46b299e4c12046da7995,1677140683,52,103.101.47.255,Beauty & Personal Care,1,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+208,215f2edd15ac476c896ecc8108ab78e6,1673854454,70,118.201.183.106,Beauty & Personal Care,1,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+209,774e934664614f33b650a175c198cfcf,1677118629,5,118.201.183.106,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+210,ef725244d08042cda43f022a726dd44a,1676960357,47,27.131.128.0,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+211,fd6487ebe3444180869bc68ad31e2889,1672831421,4,118.201.183.106,Beauty & Personal Care,0.6,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+212,7e1d86aae9e2453d9f84f5d510c8b141,1673158855,8,118.201.183.106,Beauty & Personal Care,0.9,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+213,9dae83e1add0416fb1123a2583952a62,1672902152,70,27.79.255.255,Beauty & Personal Care,0.8,Internal,www.demo.com/Beauty&PersonalCare,FALSE
+214,54ce8ecdc47e4d6c84f8cc5d79248ded,1676255164,66,118.201.183.106,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+215,83dcbf3e9e964caaa3d5eb1634175b29,1675239189,16,118.201.183.106,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+216,254843a43cbd4df3beb42b09a6d04c07,1676814787,59,1.32.127.255,Beauty & Personal Care,0.6,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+217,af8d87bfa7e54500a20534dba7dbc25e,1673497922,46,118.201.183.106,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+218,c0565e6cb9ab4b47942fbb4ced01c443,1675910187,55,27.50.31.255,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+219,f14620208a2c469bad9b386da8f3ccb4,1673823000,10,27.50.31.255,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+220,eda3233e4673409398248a6c1c5878d6,1676508927,28,103.101.47.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,FALSE
+221,c08b911188544269be7b4271954ed94f,1675002277,29,27.131.128.0,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+222,8e3920277fd449aaa698ac14ec8929f8,1673601605,50,103.101.47.255,Beauty & Personal Care,0.7,Internal,www.demo.com/Beauty&PersonalCare,FALSE
+223,65062e5890024833807e507e3c7e8525,1676228327,54,1.32.127.255,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+224,b1e1f29f346f405089314de947173266,1677299621,20,1.32.127.255,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+225,1e98a06639f347d3a207b6ebce71cb3d,1676197230,27,27.79.255.255,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+226,e36c6402f2dd4617aedcd05fe4ed9f5d,1676169280,36,118.201.183.106,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+227,d27594bd3305444fbbe357782866f954,1676489801,3,27.79.255.255,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+228,2c6f079628c04a38ba475943e34451d0,1676973532,54,27.50.31.255,Beauty & Personal Care,0.6,Direct,www.demo.com/Beauty&PersonalCare,FALSE
+229,f4c570d34df545cf8b759e954b141eb2,1675873353,69,1.32.127.255,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,FALSE
+230,804089914231490a8c89685483ff4b72,1676417678,50,118.201.183.106,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,FALSE
+231,a6111f267ca5482391159e36cf6390c0,1675579113,51,118.201.183.106,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,FALSE
+232,c06d176ca1f64cc496bffdd17ffbc87b,1672667919,58,1.32.127.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+233,7e8ff9b7619349efb07b7dffb7399144,1676763715,61,27.131.128.0,Men's Apparel,0.9,Direct,www.demo.com/MensApparel,FALSE
+234,bf570c8b3cde4c2dbbb8de13186a2d88,1677033699,55,118.201.183.106,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,FALSE
+235,763a0af8aad740988ce395594c072988,1673740584,29,27.79.255.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+236,608a2b82666446e69fee76df1d243ae1,1674083315,45,118.201.183.106,Men's Apparel,0.7,Direct,www.demo.com/MensApparel,FALSE
+237,8cc84275f1fd490faa823192a478ad86,1677310398,5,27.50.31.255,Men's Apparel,0.9,Direct,www.demo.com/MensApparel,FALSE
+238,4ca3207b23f5427ea9318247ee68ed6b,1673860717,35,118.201.183.106,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+239,f119ffe40eed4464a61f6a0584695808,1677142926,50,27.79.255.255,Men's Apparel,0.9,Back Links,www.demo.com/MensApparel,FALSE
+240,bce5510eb4164f0290c70a947eb5fe3a,1677030098,4,118.201.183.106,Men's Apparel,1,Social Networks,www.demo.com/MensApparel,FALSE
+241,9fefbfcb99f64345afa20b1468bac5e9,1675595247,62,118.201.183.106,Men's Apparel,0.7,Direct,www.demo.com/MensApparel,FALSE
+242,c15b728db9824349bdeac55678869709,1675931730,10,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+243,938ef04182be414b89be7a4bc893cbb9,1673746837,46,118.201.183.106,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+244,f8c52a431354479bbc6bb958aa9b7b96,1674377362,13,27.50.31.255,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,FALSE
+245,4a09907ef0b044a894efa9ab7dbe30a0,1675566686,63,27.50.31.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+246,469190ab0a6a4ab6a28bde960467e770,1672923807,35,118.201.183.106,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,FALSE
+247,8620f0ea6c944cc49dd6b394899b6720,1672674202,30,118.201.183.106,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+248,0062777bca264e1c8e461583a3adee9c,1675708839,19,1.32.127.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,FALSE
+249,21fcd451da9e4378b02e827b88737006,1674232687,51,1.32.127.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,FALSE
+0,e532edbe9ba541f4887320bde679b714,1676093006,28,103.101.47.255,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,TRUE
+1,6b85fe6e283f470599167e00b026446d,1672946256,46,118.201.183.106,Home Appliance,0.7,Email,www.demo.com/HomeAppliance,TRUE
+2,fb70486e8c7647c3b88cc5b81c64b9d3,1677287530,43,27.131.128.0,Home Appliance,1,Email,www.demo.com/HomeAppliance,TRUE
+3,0cce5cc11336458eb8f59d94595b7951,1676585686,40,27.79.255.255,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,TRUE
+4,754fa476c06e42c4a836b03056e28ae1,1673912038,50,118.201.183.106,Home Appliance,0.8,Back Links,www.demo.com/HomeAppliance,TRUE
+5,46dd5afe7cd34ecc922ac900670138b6,1674139038,53,118.201.183.106,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,TRUE
+6,7e805631726743e796fc72baa98b2b97,1673961355,35,27.131.128.0,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,TRUE
+7,d927dfa44e47461e813d1bb286345122,1674918180,28,103.101.47.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+8,89832ab901d441659897e126abad243d,1673666504,50,27.131.128.0,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,TRUE
+9,1d447e0e5d3249eeb29b2fb98cc50149,1676610259,48,27.50.31.255,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,TRUE
+10,909f92d126cc44bdaaca6185850acec4,1673658332,54,118.201.183.106,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,TRUE
+11,533d6e61ab5b42f39c303f5c977806f3,1677254923,8,118.201.183.106,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,TRUE
+12,a5ca99b164aa4d6aabe153a3cda22798,1677053141,22,27.79.255.255,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,TRUE
+13,090a6d7201af423abe3aaadf1bc36027,1673225151,59,27.131.128.0,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+14,9af71c3fc1d84c76bf6fe754ded316eb,1672693076,31,27.79.255.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+15,673b3ccf7d6746d0873ac698d5aa4ce0,1676119676,55,27.79.255.255,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,TRUE
+16,3cbbdf1d8d064b479112338e4a3e3c23,1673649279,39,1.32.127.255,Home Appliance,0.9,Social Networks,www.demo.com/HomeAppliance,TRUE
+17,d714c5d654644d4a9f7a265020f1f81d,1676289894,31,118.201.183.106,Home Appliance,0.8,Back Links,www.demo.com/HomeAppliance,TRUE
+18,e30ffb90cdbf4d898ac0ea2f8fe40bd5,1675532588,64,27.79.255.255,Home Appliance,0.7,Back Links,www.demo.com/HomeAppliance,TRUE
+19,dda22a6d93854194a0e905486fbad15d,1675830221,66,27.50.31.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,TRUE
+20,a31402158f434552a380e5bae1c5d8d4,1674870193,12,27.79.255.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+21,1cd370e3d90f4ca7ad83a53f3938801c,1673795636,22,27.50.31.255,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,TRUE
+22,bf310802d8494c93b4fc0960b49a9ac8,1673365949,46,1.32.127.255,Home Appliance,1,Direct,www.demo.com/HomeAppliance,TRUE
+23,e6bc9c626889404496f7d6f3d7045c66,1673353334,25,118.201.183.106,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,TRUE
+24,fff28ceaa3254b949353f8f055921516,1677334272,21,118.201.183.106,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,TRUE
+25,b61c14f2f91e4c15a4701545310694b7,1673649578,13,1.32.127.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,TRUE
+26,b0c0aa6bc95a474aa8a40be65263ad58,1674283565,67,118.201.183.106,Men's Apparel,1,Direct,www.demo.com/MensApparel,TRUE
+27,22e2f1fa16154e91ac8d9b4acf767472,1676630943,10,27.50.31.255,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,TRUE
+28,886f405f0bad46c2b7e0249aae71928a,1673034318,21,118.201.183.106,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,TRUE
+29,07f2cf3597cf4d7c8bb9cfcf79f37359,1672860398,67,27.131.128.0,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,TRUE
+30,44d348b256d14b82b825468389c8688b,1673687773,31,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,TRUE
+31,4a28d84bef544d2b9df2a89124f21671,1676583151,40,118.201.183.106,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,TRUE
+32,af1bd024c6b047f4904ee5c031eea30d,1676527165,26,118.201.183.106,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,TRUE
+33,214e351001cb42ed8dc88c99a4135f85,1673080372,65,118.201.183.106,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,TRUE
+34,a9c6c785863a4c97991bb7969d6daa0a,1675862985,16,118.201.183.106,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,TRUE
+35,67a4b66eda434ab28f4a837e571ca445,1674227712,50,118.201.183.106,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,TRUE
+36,fcf596b1a3624a609c66b2e997c04ea7,1674712277,37,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,TRUE
+37,b12b54ee8e3f4fc3ade4f0a3888d6ce9,1675096694,59,27.131.128.0,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,TRUE
+38,52704d23a6a34debabb4cf2b3a021b39,1676904923,11,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,TRUE
+39,e3ed9a90372947babd67c92dd0e5d491,1675905004,22,27.79.255.255,Men's Apparel,0.8,Social Networks,www.demo.com/MensApparel,TRUE
+40,b2548e41fc4a4a49be8b923675f2c37b,1674446980,29,103.101.47.255,Men's Apparel,1,Social Networks,www.demo.com/MensApparel,TRUE
+41,7306bb46b2414a06bbfcb6a26866dfc6,1676130622,69,27.79.255.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,TRUE
+42,14043429a667496f9cdbf2e18d436c91,1674459486,7,103.101.47.255,Sports & Outdoor,0.7,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+43,dc460a856ee243e29c2a23716bcf987e,1675866222,46,1.32.127.255,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,TRUE
+44,5399fd0f46664c62abea5e4367df22b8,1676235784,62,118.201.183.106,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+45,c2b195736190409ea508736d98080191,1674975090,48,27.50.31.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+46,c30ff65d43a349a780e564333cfac675,1676842097,30,27.79.255.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+47,230a5f72f49b4cdfb9771ab480e734ef,1674881349,53,118.201.183.106,Sports & Outdoor,0.6,Direct,www.demo.com/Sports&Outdoor,TRUE
+48,0d89fcd42f284003903f968df4366c5e,1674040555,22,118.201.183.106,Sports & Outdoor,0.9,Email,www.demo.com/Sports&Outdoor,TRUE
+49,872c0b8b069f46c0b26069a9c3b8c93c,1676558238,54,118.201.183.106,Sports & Outdoor,0.9,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+50,6c0892e276c1456bb424ee0357563e49,1672554703,4,27.131.128.0,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+51,8fae72a26b0c4ac2a344febd1c01d8c7,1673365335,32,27.50.31.255,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+52,85ce8c8cbd3f4f94bb88122a02e75e4a,1672681250,17,118.201.183.106,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+53,4b90a23a3d3d4f70aff6b64d0c5b093a,1675312589,7,27.50.31.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+54,8eadba1ea6de47b68d59320af3ad2851,1677092268,64,1.32.127.255,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,TRUE
+55,b913eca7ea914b18a77d27123e9093b4,1676267826,27,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+56,3fe653bd839d4b01be42e19f989bb0d7,1675814222,23,27.79.255.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+57,a3a78fd1d6744144aef4ae47e7864f09,1674851631,43,27.79.255.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+58,18f5a9ffff8f4027b9730cdfb453280b,1674017603,25,27.50.31.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+59,871fe0ff12de409c957b4f7113ad6892,1674095248,48,27.131.128.0,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,TRUE
+60,81da9492599e4b04af4d573f2b4e7664,1673276364,66,27.131.128.0,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+61,8353a46dddc44652ae22ada87464a0f6,1674839691,53,1.32.127.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+62,dcf282a10b4644878183fa296bbb8381,1677102501,41,27.79.255.255,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+63,730d56e522494cd58541e9fb99fb7bcf,1673461440,62,118.201.183.106,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,TRUE
+64,3125c08df87f48c4aa209a7b060a902e,1674041083,35,27.50.31.255,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,TRUE
+65,0260a4764b124f96afea67ca62832fac,1674501504,37,27.50.31.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+66,9b1d7b9e62b64cada012c4dd689b8446,1674001853,31,103.101.47.255,Sports & Outdoor,1,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+67,a85e90cc62904e2a98ba0c45c69e2398,1674512231,46,118.201.183.106,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+68,6d50b8a0fc8a43f98cdad2101b6c4236,1674942816,68,27.50.31.255,Men's Apparel,0.6,Social Networks,www.demo.com/MensApparel,TRUE
+69,eb65302feaf044b99caa6d60931a8c99,1674354279,3,118.201.183.106,Men's Apparel,0.9,Direct,www.demo.com/MensApparel,TRUE
+70,36e17d416e3d47448c07dabadd89c1ba,1676579023,10,118.201.183.106,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,TRUE
+71,5429abc6e9634a48b39e36e6c8429d1c,1673746850,49,27.50.31.255,Men's Apparel,0.9,Search Engine,www.demo.com/MensApparel,TRUE
+72,3eb6eaac872c4f169a119ea26f4fe015,1672627520,50,27.50.31.255,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,TRUE
+73,e0a5a142f8d44e449ee8dac3b268dd57,1673327140,15,118.201.183.106,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,TRUE
+74,764e514d416f499e9d3aa17bda1c2649,1677075588,22,27.79.255.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,TRUE
+75,29e9aff099bc425a9e4c6b0efbc11751,1672858607,9,27.50.31.255,Men's Apparel,1,Direct,www.demo.com/MensApparel,TRUE
+76,acbe73c8fa364f50af174602a25acd79,1674657099,35,27.79.255.255,Men's Apparel,0.8,Direct,www.demo.com/MensApparel,TRUE
+77,af92847258a4476ca71598aff63cf662,1675045891,58,27.50.31.255,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,TRUE
+78,46d68f21e0e7410ea874dfa6517d6c7b,1676439688,32,118.201.183.106,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,TRUE
+79,f926a7883c9d406fb1a462265754a95a,1673700071,46,118.201.183.106,Men's Apparel,0.6,Direct,www.demo.com/MensApparel,TRUE
+80,25a736c61707410b9b5fad9f7a93ab2f,1676680879,21,118.201.183.106,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,TRUE
+81,90d576298a214ca9b4abc8757375a6a6,1675837800,56,27.131.128.0,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,TRUE
+82,ed94dbd69a1a402fa6a022c928a67f0a,1675503331,29,1.32.127.255,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,TRUE
+83,453d9ac8426c400394e38273cf701cfc,1673888731,20,103.101.47.255,Men's Apparel,0.7,Search Engine,www.demo.com/MensApparel,TRUE
+84,f47ab51cabde4fed9486447f8bb31426,1675757605,52,27.50.31.255,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,TRUE
+85,f3d6d47d23e6496d8230d7705f266aec,1674506484,38,27.79.255.255,Men's Apparel,1,Search Engine,www.demo.com/MensApparel,TRUE
+86,27c2ffc30b6e4550826d9dd1cca4b4a3,1675877159,54,27.79.255.255,Men's Apparel,0.6,Search Engine,www.demo.com/MensApparel,TRUE
+87,8b04a7552e19429b9f83730561559b61,1675434308,49,118.201.183.106,Men's Apparel,0.8,Search Engine,www.demo.com/MensApparel,TRUE
+88,04da4885ec5e4f5f98df67f417e5e8d7,1672885515,27,118.201.183.106,Men's Apparel,0.7,Social Networks,www.demo.com/MensApparel,TRUE
+89,264b0b2dd537478485ad41efe5fbccda,1676933484,22,27.50.31.255,Women's Apparel,0.6,Search Engine,www.demo.com/WomensApparel,TRUE
+90,8807fd8f96c944d991fcb2a17704b524,1675459247,57,103.101.47.255,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,TRUE
+91,4630189af8b643658c971f3c53710fd9,1674535332,54,27.50.31.255,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,TRUE
+92,afd00e9434d64d03a7a7571d815032db,1674646640,63,118.201.183.106,Women's Apparel,1,Search Engine,www.demo.com/WomensApparel,TRUE
+93,2ac22aa370494eb5b8fdef48cf13c070,1675704197,8,27.50.31.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,TRUE
+94,87dcaadf87474254855048e28cac0ca7,1673707121,27,27.131.128.0,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,TRUE
+95,ea53c3c7a1004d798cd0e88c89ce548a,1674623722,51,27.50.31.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,TRUE
+96,638914a8ecb34efeb07ebe4eeeb56e28,1675057440,44,118.201.183.106,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,TRUE
+97,5ff055674d8d4b59bf6cd7bb4d07d393,1675323821,36,118.201.183.106,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,TRUE
+98,d725e104c35a47b48271e963dd567e31,1674815168,55,118.201.183.106,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,TRUE
+99,815ac0f4fcfe4f3bb732dcfd02386f80,1676533198,12,27.79.255.255,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,TRUE
+100,fd0ad199a8bb4d6c8de4a1f87576e480,1672839490,8,118.201.183.106,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,TRUE
+101,3e3ed1eb5977476db68bea6f78f3e84d,1677482525,11,118.201.183.106,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,TRUE
+102,fcd7eacf1e7a4ae5bae9ba7189241714,1674444379,18,1.32.127.255,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,TRUE
+103,8154595454374a20a37047e54efbc5e5,1675102012,5,1.32.127.255,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,TRUE
+104,f57c89f6057a4b56b2f8661a54989cb4,1673887727,38,27.79.255.255,Women's Apparel,0.8,Search Engine,www.demo.com/WomensApparel,TRUE
+105,621869a91d344fa1b5d770e50eeadfa9,1675184049,17,118.201.183.106,Home Appliance,0.9,Direct,www.demo.com/HomeAppliance,TRUE
+106,ccdd3ce1651a49b3a3d44fb7bcac3932,1677349993,51,118.201.183.106,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+107,4cc05601f01b4732969e9efa9fc9a604,1673051743,9,103.101.47.255,Home Appliance,1,Direct,www.demo.com/HomeAppliance,TRUE
+108,285a4f284998456e888a890c650c0616,1674835632,26,27.131.128.0,Home Appliance,0.6,Social Networks,www.demo.com/HomeAppliance,TRUE
+109,76cd6265616c4f67bcbcc19790f222df,1672918407,38,27.50.31.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+110,ac3a266312f142c785d81e942b88cce6,1673663348,34,27.131.128.0,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+111,cde22acf763b4445801c3e02b7ed03e0,1673774208,10,118.201.183.106,Home Appliance,1,Search Engine,www.demo.com/HomeAppliance,TRUE
+112,81c700fbb271466a973581d71a5e8918,1672538971,49,103.101.47.255,Home Appliance,0.8,Social Networks,www.demo.com/HomeAppliance,TRUE
+113,f8a89f57f0e04e03a65a7dd33a773cf4,1674605964,9,118.201.183.106,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,TRUE
+114,11c66253da804e31a577a76b094c785c,1674119410,22,118.201.183.106,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+115,e7e9a2004d564314bb1c443c87d3aacb,1676095520,12,118.201.183.106,Home Appliance,1,Search Engine,www.demo.com/HomeAppliance,TRUE
+116,eee10e927d8144e29fbe33feb5089ddb,1676911832,69,27.79.255.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,TRUE
+117,1d301b56ad4b439b80f8821329b875eb,1674863448,12,118.201.183.106,Home Appliance,0.9,Search Engine,www.demo.com/HomeAppliance,TRUE
+118,1f8cef9f891c4eecb8b02d59f67b59c2,1676557738,36,118.201.183.106,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,TRUE
+119,58445699e0f94054b5d7c97af9636ccc,1673398831,33,1.32.127.255,Home Appliance,0.8,Search Engine,www.demo.com/HomeAppliance,TRUE
+120,729c908878584aa999618456acbec34f,1673661370,15,1.32.127.255,Home Appliance,0.7,Search Engine,www.demo.com/HomeAppliance,TRUE
+121,f615afc20b52474ba6ccf1e646647a51,1675774330,56,118.201.183.106,Home Appliance,0.7,Direct,www.demo.com/HomeAppliance,TRUE
+122,414430c0a3f94c11adf8367e55434363,1676435678,24,118.201.183.106,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,TRUE
+123,23504a6f7db74acf87328065127b3a7b,1674533882,63,1.32.127.255,Home Appliance,0.6,Search Engine,www.demo.com/HomeAppliance,TRUE
+124,a5a12066c7e04faf974d8d73e8118942,1675743373,61,27.50.31.255,Home Appliance,0.8,Direct,www.demo.com/HomeAppliance,TRUE
+125,e873d28449a34269b6a08377b8e6de43,1675872533,16,27.50.31.255,Home Appliance,0.6,Direct,www.demo.com/HomeAppliance,TRUE
+126,133a32f86350479f96de00a90bd1cc0f,1676103717,58,27.131.128.0,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+127,b6b440b143ef42d7acc27aa3c2836603,1674125819,62,118.201.183.106,Beauty & Personal Care,0.6,Social Networks,www.demo.com/Beauty&PersonalCare,TRUE
+128,8f8af449b1de4197bffd621179615db7,1675316297,44,27.79.255.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,TRUE
+129,ad2c0a463ec24d3c9f5d88624d971857,1676801772,62,118.201.183.106,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+130,e2b79053b0f84ef7b9ee0352b718cf33,1676129668,42,118.201.183.106,Beauty & Personal Care,1,Social Networks,www.demo.com/Beauty&PersonalCare,TRUE
+131,00a00c8b2c384557b57f06258448eff1,1674576811,62,27.50.31.255,Beauty & Personal Care,0.7,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+132,23f506f67a7a42a0a04454e39ba45d9f,1675166281,33,118.201.183.106,Beauty & Personal Care,1,Internal,www.demo.com/Beauty&PersonalCare,TRUE
+133,bb3926535c18493495d658071d21673b,1674933897,67,27.79.255.255,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+134,509ff4ba6b9a4f2ea8d0ea58acf361be,1675919474,42,27.131.128.0,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+135,d5c1b5bea7ae4ea8b6a6d49a18c25d66,1675019393,29,27.79.255.255,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+136,944f04bfdd644e6f89c85aedd22a8f07,1673547417,27,1.32.127.255,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+137,450d0bd9855a43e6a99badbcc9552c2d,1676093023,13,27.131.128.0,Beauty & Personal Care,0.8,Back Links,www.demo.com/Beauty&PersonalCare,TRUE
+138,fc91660ef52b49868a7642e880155201,1676063611,30,103.101.47.255,Beauty & Personal Care,0.7,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+139,34023ec056f14b018936996baec0a29f,1677293242,30,118.201.183.106,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+140,473e29400f384cca9d6816e09128645e,1673667259,66,27.79.255.255,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+141,e25311a7f0274855ae4738b7325bff02,1673290828,33,118.201.183.106,Beauty & Personal Care,0.7,Social Networks,www.demo.com/Beauty&PersonalCare,TRUE
+142,3d873734deea4bb58942ba838a7617ef,1677192944,58,27.50.31.255,Beauty & Personal Care,0.7,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+143,6aeb4c5cccf0459bb1fd73388dde6b43,1675550713,25,118.201.183.106,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+144,144a2f97664b47d7bc5413f26ead4582,1675933941,4,118.201.183.106,Beauty & Personal Care,0.7,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+145,a77f1acdeecb4d37ae1403d387d0dbbb,1675255607,61,118.201.183.106,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+146,ce035dd086244d15bd325c76faa7424a,1674124762,44,118.201.183.106,Beauty & Personal Care,1,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+147,1c4ffd16e6ba4ac8a73ec90405989427,1676355527,61,118.201.183.106,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+148,3a26abc6a9bb4738ba326c309282874e,1674723658,64,103.101.47.255,Beauty & Personal Care,0.7,Social Networks,www.demo.com/Beauty&PersonalCare,TRUE
+149,a4faff25c5e74503a914add292c0f6a5,1673309300,17,103.101.47.255,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+150,c56bad279c7d4b45a3ae59bb78baa1f4,1673008581,24,27.131.128.0,Beauty & Personal Care,0.9,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+151,490bc670f5134ed59818a37f90cae986,1677350111,8,1.32.127.255,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+152,34bc84b0991f446c941ad2a66028a00f,1675637253,38,27.50.31.255,Beauty & Personal Care,0.8,Social Networks,www.demo.com/Beauty&PersonalCare,TRUE
+153,cb8c5bf9aeae448b82d4cec4e2d266e1,1677269899,41,118.201.183.106,Beauty & Personal Care,0.7,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+154,60f1ccb35d414f69986c774cc869037f,1674925152,52,103.101.47.255,Beauty & Personal Care,0.6,Social Networks,www.demo.com/Beauty&PersonalCare,TRUE
+155,e45209c3b5a4430a87c3602b95a1338f,1676084470,21,118.201.183.106,Beauty & Personal Care,0.8,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+156,6a2f861f861140c98bc3f296b8ecc06f,1674482515,66,27.50.31.255,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+157,8b8738a0b3194caba28932fb264eadc2,1675626974,48,1.32.127.255,Beauty & Personal Care,0.9,Social Networks,www.demo.com/Beauty&PersonalCare,TRUE
+158,d6e9babc4023443696925bfff0b7f4c6,1676322851,27,118.201.183.106,Beauty & Personal Care,0.6,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+159,c472499596ec4782a06550e4bc8b3afa,1675459980,21,27.131.128.0,Beauty & Personal Care,1,Search Engine,www.demo.com/Beauty&PersonalCare,TRUE
+160,0b2a90390ec342e6ae78bfb700dda173,1674768571,4,118.201.183.106,Beauty & Personal Care,0.9,Internal,www.demo.com/Beauty&PersonalCare,TRUE
+161,ff1e42e2d2db4f81ae8e29292fcb0993,1676965407,52,118.201.183.106,Beauty & Personal Care,0.7,Email,www.demo.com/Beauty&PersonalCare,TRUE
+162,6c87a26046b54a449420f54f25f1b554,1673704131,57,118.201.183.106,Beauty & Personal Care,0.9,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+163,fbeee716bf634fc1bc6af78129831082,1674168967,66,118.201.183.106,Beauty & Personal Care,0.8,Direct,www.demo.com/Beauty&PersonalCare,TRUE
+164,902160f70f6e4503a2f7c8fcde28dbd2,1675783778,12,103.101.47.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+165,a282890120184cec8130a0b8221b174f,1672853497,7,1.32.127.255,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+166,257a1a43e26849f69575866e6d215f5a,1673999845,55,27.79.255.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+167,ab09bc49ca1f43a797f9dd02b1dacd96,1672703176,35,118.201.183.106,Sports & Outdoor,1,Email,www.demo.com/Sports&Outdoor,TRUE
+168,144bd3c949264ef2aa3d3bd0a376d6a2,1675636305,64,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+169,2b1ea7c0b6e94291a29487334455824f,1677497156,16,27.50.31.255,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+170,0fba3b95ffb04a82a3131e91618bb664,1675795804,10,118.201.183.106,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,TRUE
+171,f4f58459ea694df98ba3dd27f11ce014,1672743844,28,27.79.255.255,Sports & Outdoor,0.6,Direct,www.demo.com/Sports&Outdoor,TRUE
+172,e7893197c8604e3aab4e34170b1edd71,1674400715,44,27.50.31.255,Sports & Outdoor,1,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+173,5a28d27d04c040a0914357930d4123df,1675367615,59,103.101.47.255,Sports & Outdoor,1,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+174,88464c7a0c4941fd95d96a15e898bd68,1673087468,45,27.50.31.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+175,193ef2e3905a4385b0f07590b18ee794,1674485024,14,118.201.183.106,Sports & Outdoor,0.6,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+176,e6a6287cae424647954d7004ab4c063b,1675437177,61,27.131.128.0,Sports & Outdoor,0.7,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+177,478f7e4b9d694479a9d692956c8fec4f,1675903990,64,103.101.47.255,Sports & Outdoor,0.8,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+178,573b53e71fee4b92be5419e6b9094a23,1675561649,5,118.201.183.106,Sports & Outdoor,0.9,Search Engine,www.demo.com/Sports&Outdoor,TRUE
+179,93ac828ea5b04fccbd8322bdff0fbf07,1673769031,29,118.201.183.106,Sports & Outdoor,0.7,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+180,c63727c0f77347d7a968e39c702e7752,1675822039,14,118.201.183.106,Sports & Outdoor,0.7,Direct,www.demo.com/Sports&Outdoor,TRUE
+181,2341c948d5c6492fb9839d02111ca796,1675775872,44,1.32.127.255,Sports & Outdoor,0.8,Direct,www.demo.com/Sports&Outdoor,TRUE
+182,d056e892366346d3ba6d7469211e4915,1673011249,3,27.79.255.255,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+183,a37f9cae72a648af9d65dd9f365d7e42,1676117519,56,27.79.255.255,Sports & Outdoor,0.6,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+184,84ee5e9b38ec4eb082b41a8e726e4951,1676577447,17,118.201.183.106,Sports & Outdoor,0.8,Social Networks,www.demo.com/Sports&Outdoor,TRUE
+185,da0d7c1113444c9ba5800320dd148075,1673841219,62,1.32.127.255,Sports & Outdoor,0.9,Direct,www.demo.com/Sports&Outdoor,TRUE
+186,b273586cb3d141e3b154d941631dbbee,1675003770,33,27.79.255.255,Women's Apparel,0.9,Search Engine,www.demo.com/WomensApparel,TRUE
+187,15db7be9a48d444794d6c96547463253,1673140764,51,118.201.183.106,Women's Apparel,0.6,Internal,www.demo.com/WomensApparel,TRUE
+188,5298e11f3312413487cdaaeb03735ba5,1677512816,50,118.201.183.106,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,TRUE
+189,cde1b654a0644d46ba50d240d2aa98aa,1674710367,43,118.201.183.106,Women's Apparel,0.9,Direct,www.demo.com/WomensApparel,TRUE
+190,a62ded722bc944d697fdafde1dad2c4c,1676918999,32,27.79.255.255,Women's Apparel,0.9,Direct,www.demo.com/WomensApparel,TRUE
+191,af2861afc8114e26b7e05525801c3849,1674177598,66,27.131.128.0,Women's Apparel,0.9,Email,www.demo.com/WomensApparel,TRUE
+192,70d73fc4041743c0963ccf22ba058d8d,1675976496,56,118.201.183.106,Women's Apparel,0.7,Social Networks,www.demo.com/WomensApparel,TRUE
+193,02e1e4c7e743433c8913ddb3cbe09a5f,1674285640,56,103.101.47.255,Women's Apparel,0.6,Social Networks,www.demo.com/WomensApparel,TRUE
+194,a43bfd76a85a41a6811fd1ddae40c921,1674787189,25,1.32.127.255,Women's Apparel,0.8,Direct,www.demo.com/WomensApparel,TRUE
+195,9f2864878bf14a43a11e799c8834ea6d,1676225353,29,118.201.183.106,Women's Apparel,1,Social Networks,www.demo.com/WomensApparel,TRUE
+196,b8a624a8a33048ea826bf59bfcd849cd,1676021564,47,27.79.255.255,Women's Apparel,0.7,Search Engine,www.demo.com/WomensApparel,TRUE
+197,f9acf00e10124dda9610314001f4a905,1675570859,21,118.201.183.106,Women's Apparel,0.7,Direct,www.demo.com/WomensApparel,TRUE
+198,039430357108476193ca3dfa866c3039,1675149172,53,118.201.183.106,Women's Apparel,0.6,Direct,www.demo.com/WomensApparel,TRUE
+199,a1866d81eb054569b08cb01c759f0817,1673208301,33,118.201.183.106,Women's Apparel,0.6,Search Engine,www.demo.com/WomensApparel,TRUE

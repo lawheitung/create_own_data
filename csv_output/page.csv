@@ -1,0 +1,6 @@
+id,timestamp,url,page title,scroll_depth,duration,referrertype,landingpagepath,is first visit,Country,device type,browser
+88a176fe02814826be09227b0775d72e,1675548183,/home,Landing Page,0.7,30,direct,www.home.com,TRUE,118.201.183.106,Desktop,Chrome
+88a176fe02814826be09227b0775d72e,1675548213,/course,Courses,0.6,30,direct,www.home.com,FALSE,118.201.183.106,Desktop,Chrome
+88a176fe02814826be09227b0775d72e,1675548243,/course/AI,AI,1,30,direct,www.home.com,FALSE,118.201.183.106,Desktop,Chrome
+88a176fe02814826be09227b0775d72e,1675548273,/finance,Finance,1,30,direct,www.home.com,FALSE,118.201.183.106,Desktop,Chrome
+88a176fe02814826be09227b0775d72e,1676613783,/home,Landing Page,0.3,50,search engine,www.home.com,FALSE,118.201.183.106,Mobile,Safari
